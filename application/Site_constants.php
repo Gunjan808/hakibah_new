@@ -47,7 +47,14 @@ if ($_SERVER['HTTP_HOST'] === 'studocs.dev') {
 	define("DB_NAME", 'developm_hakibah');
 	$root_folder = '/hakibah/';
 	
-} 
+}  elseif ($_SERVER['HTTP_HOST'] === 'localhost') {
+
+	define("DB_HOST", 'localhost');
+	define("DB_USER", 'root');
+	define("DB_PASS", '');
+	define("DB_NAME", 'hakibah_30122020');
+	$root_folder = '/hakibah_new/';
+}
 
 /** Site Url : `$_SERVER['HTTP_HOST']` */
 defined('SITE_URL') or define('SITE_URL', errorMsg::get_protocol() . $_SERVER['HTTP_HOST'] . $root_folder);
