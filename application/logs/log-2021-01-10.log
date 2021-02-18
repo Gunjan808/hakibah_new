@@ -1,0 +1,624 @@
+DEBUG - 2021-01-10 06:23:18 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:23:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:23:18 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 06:23:18 --> 404 Page Not Found: 
+DEBUG - 2021-01-10 06:23:32 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:23:32 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:23:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:23:32 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:23:32 --> Total execution time: 0.0728
+DEBUG - 2021-01-10 06:23:33 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:23:33 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:23:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:23:33 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:23:33 --> Total execution time: 0.0402
+DEBUG - 2021-01-10 06:23:35 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:23:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:23:35 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:23:35 --> Total execution time: 0.0377
+DEBUG - 2021-01-10 06:23:46 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:23:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:23:46 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:23:46 --> Total execution time: 0.0320
+DEBUG - 2021-01-10 06:23:47 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:23:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:23:47 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:23:47 --> Total execution time: 0.0277
+DEBUG - 2021-01-10 06:23:48 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:23:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:23:48 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:23:48 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:23:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:23:48 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:23:48 --> Total execution time: 0.0482
+DEBUG - 2021-01-10 06:26:57 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:26:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:26:57 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:26:57 --> Total execution time: 0.0393
+DEBUG - 2021-01-10 06:31:36 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:31:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:31:36 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:31:36 --> Total execution time: 0.0529
+DEBUG - 2021-01-10 06:31:43 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:31:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:31:43 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:31:43 --> Total execution time: 0.0478
+DEBUG - 2021-01-10 06:32:01 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:32:01 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:32:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:32:01 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:32:02 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:32:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:32:02 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:32:02 --> Total execution time: 0.0448
+DEBUG - 2021-01-10 06:32:08 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:32:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:32:08 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:32:08 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:32:08 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:32:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:32:08 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:32:08 --> Total execution time: 0.0481
+DEBUG - 2021-01-10 06:32:15 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:32:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:32:15 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:32:15 --> Total execution time: 0.0482
+DEBUG - 2021-01-10 06:32:41 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:32:41 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:32:41 --> Total execution time: 0.0285
+DEBUG - 2021-01-10 06:32:45 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:32:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:32:45 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:32:45 --> Total execution time: 0.0299
+DEBUG - 2021-01-10 06:32:46 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:32:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:32:46 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:32:47 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:32:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:32:47 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:32:47 --> Total execution time: 0.0433
+DEBUG - 2021-01-10 06:32:54 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:32:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:32:54 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:32:54 --> Total execution time: 0.0440
+DEBUG - 2021-01-10 06:36:51 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:36:51 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:36:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:36:51 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:36:52 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:36:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:36:52 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:36:52 --> Total execution time: 0.0413
+DEBUG - 2021-01-10 06:36:59 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:36:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:36:59 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:36:59 --> Total execution time: 0.0443
+DEBUG - 2021-01-10 06:37:09 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:37:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:37:09 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:37:09 --> Total execution time: 0.0507
+DEBUG - 2021-01-10 06:37:22 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:37:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:37:22 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:37:22 --> Total execution time: 0.0387
+DEBUG - 2021-01-10 06:37:25 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:37:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:37:25 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:37:25 --> Total execution time: 0.0372
+DEBUG - 2021-01-10 06:37:39 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:37:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:37:39 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:37:39 --> Total execution time: 0.0648
+DEBUG - 2021-01-10 06:37:42 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:37:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:37:42 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:37:42 --> Total execution time: 0.0415
+DEBUG - 2021-01-10 06:37:44 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:37:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:37:44 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:37:44 --> Total execution time: 0.0325
+DEBUG - 2021-01-10 06:37:46 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:37:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:37:46 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:37:46 --> Total execution time: 0.0301
+DEBUG - 2021-01-10 06:37:46 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:37:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:37:46 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:37:46 --> Total execution time: 0.0254
+DEBUG - 2021-01-10 06:38:13 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:38:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:38:13 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:38:13 --> Total execution time: 0.0492
+DEBUG - 2021-01-10 06:38:35 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:38:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:38:35 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:38:51 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:38:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:38:51 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:38:51 --> Total execution time: 0.0434
+DEBUG - 2021-01-10 06:38:52 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:38:52 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:38:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:38:52 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:38:53 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:38:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:38:53 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:38:53 --> Total execution time: 0.0435
+DEBUG - 2021-01-10 06:38:54 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:38:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:38:54 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:38:58 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:38:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:38:58 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:38:58 --> Total execution time: 0.0466
+DEBUG - 2021-01-10 06:39:00 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:39:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:39:00 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:39:00 --> Total execution time: 0.0389
+DEBUG - 2021-01-10 06:39:02 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:39:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:39:02 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:39:02 --> Total execution time: 0.0373
+DEBUG - 2021-01-10 06:39:04 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:39:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:39:04 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:39:04 --> Total execution time: 0.0470
+DEBUG - 2021-01-10 06:39:04 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:39:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:39:04 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:39:04 --> Total execution time: 0.0353
+DEBUG - 2021-01-10 06:39:45 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:39:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:39:45 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:39:45 --> Total execution time: 0.0392
+DEBUG - 2021-01-10 06:40:01 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:40:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:40:01 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:40:01 --> Total execution time: 0.0573
+DEBUG - 2021-01-10 06:40:59 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:40:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:40:59 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:40:59 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:40:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:40:59 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:40:59 --> Total execution time: 0.0429
+DEBUG - 2021-01-10 06:41:22 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:41:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:41:22 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:41:22 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:41:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:41:22 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 06:41:22 --> Severity: Warning --> Creating default object from empty value /home1/developmentconso/public_html/hakibah/public/pages/profile-new.php 65
+ERROR - 2021-01-10 06:41:22 --> Severity: Warning --> Creating default object from empty value /home1/developmentconso/public_html/hakibah/public/pages/profile-new.php 69
+DEBUG - 2021-01-10 06:41:22 --> Total execution time: 0.0510
+DEBUG - 2021-01-10 06:41:27 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:41:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:41:27 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:41:27 --> Total execution time: 0.0506
+DEBUG - 2021-01-10 06:41:37 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:41:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:41:37 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:41:37 --> Total execution time: 0.0446
+DEBUG - 2021-01-10 06:41:46 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:41:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:41:46 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:41:46 --> Total execution time: 0.0506
+DEBUG - 2021-01-10 06:41:54 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:41:54 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:41:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:41:54 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:41:54 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:41:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:41:54 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:41:54 --> Total execution time: 0.0439
+DEBUG - 2021-01-10 06:42:04 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:42:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:42:04 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:42:04 --> Total execution time: 0.0318
+DEBUG - 2021-01-10 06:42:16 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:42:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:42:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:42:17 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:42:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:42:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:42:17 --> Total execution time: 0.0280
+DEBUG - 2021-01-10 06:43:42 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:43:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:43:42 --> Total execution time: 0.0373
+DEBUG - 2021-01-10 06:43:43 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:43:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-10 06:43:43 --> 404 Page Not Found: List/uploads
+DEBUG - 2021-01-10 06:43:44 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:43:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:43:44 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:43:44 --> Total execution time: 0.0310
+DEBUG - 2021-01-10 06:43:50 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:43:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:43:50 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:43:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:43:50 --> Total execution time: 0.0397
+DEBUG - 2021-01-10 06:43:51 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:43:51 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-10 06:43:51 --> 404 Page Not Found: List/uploads
+DEBUG - 2021-01-10 06:43:52 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:43:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:43:52 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:43:52 --> Total execution time: 0.0296
+DEBUG - 2021-01-10 06:43:57 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:43:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:43:57 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 06:43:57 --> 404 Page Not Found: 
+DEBUG - 2021-01-10 06:44:00 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:00 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 06:44:00 --> 404 Page Not Found: 
+DEBUG - 2021-01-10 06:44:07 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:07 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:44:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:07 --> Total execution time: 0.0554
+DEBUG - 2021-01-10 06:44:10 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:10 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:10 --> Total execution time: 0.0366
+DEBUG - 2021-01-10 06:44:27 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:27 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:27 --> Total execution time: 0.0288
+DEBUG - 2021-01-10 06:44:28 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:28 --> Total execution time: 0.0312
+DEBUG - 2021-01-10 06:44:29 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:29 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:30 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:30 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:30 --> Total execution time: 0.0421
+DEBUG - 2021-01-10 06:44:36 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:36 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:36 --> Total execution time: 0.0507
+DEBUG - 2021-01-10 06:44:46 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:46 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:44:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:46 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:47 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:47 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:47 --> Total execution time: 0.0482
+DEBUG - 2021-01-10 06:44:53 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:53 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:53 --> Total execution time: 0.0426
+DEBUG - 2021-01-10 06:44:56 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:44:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:44:56 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:44:56 --> Total execution time: 0.0416
+DEBUG - 2021-01-10 06:52:12 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:52:12 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:52:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:52:12 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:52:12 --> Total execution time: 0.0392
+DEBUG - 2021-01-10 06:52:14 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:52:14 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 06:52:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:52:14 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:52:14 --> Total execution time: 0.0415
+DEBUG - 2021-01-10 06:59:49 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 06:59:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 06:59:49 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 06:59:49 --> Total execution time: 0.0353
+DEBUG - 2021-01-10 07:05:43 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:05:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:05:43 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:05:43 --> Total execution time: 0.0418
+DEBUG - 2021-01-10 07:05:44 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:05:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:05:44 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:05:44 --> Total execution time: 0.0271
+DEBUG - 2021-01-10 07:05:44 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:05:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:05:44 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:05:45 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:05:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:05:45 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:05:45 --> Total execution time: 0.0552
+DEBUG - 2021-01-10 07:05:53 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:05:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:05:53 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:05:53 --> Total execution time: 0.0499
+DEBUG - 2021-01-10 07:33:28 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:33:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:33:28 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 07:33:28 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '95 and `vote` = 1' at line 3 - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `study_doc_upvotes`
+WHERE user_id in 95 and `vote` = 1 
+ERROR - 2021-01-10 07:33:28 --> Severity: error --> Exception: Call to a member function num_rows() on bool /home1/developmentconso/public_html/hakibah/system/database/DB_query_builder.php 1429
+DEBUG - 2021-01-10 07:34:01 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:34:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:34:01 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 07:34:01 --> Query error: You have an error in your SQL syntax; check the manual that corresponds to your MySQL server version for the right syntax to use near '95 and `vote` = 1' at line 3 - Invalid query: SELECT COUNT(*) AS `numrows`
+FROM `study_doc_upvotes`
+WHERE user_id in 95 and `vote` = 1 
+DEBUG - 2021-01-10 07:34:45 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:34:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:34:45 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:34:45 --> Total execution time: 0.0406
+DEBUG - 2021-01-10 07:34:53 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:34:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:34:53 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:34:54 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:34:54 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 07:34:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:34:54 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:34:54 --> Total execution time: 0.0547
+DEBUG - 2021-01-10 07:34:57 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:34:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:34:57 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:34:57 --> Total execution time: 0.0391
+DEBUG - 2021-01-10 07:35:06 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:35:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:35:06 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:35:06 --> Total execution time: 0.0364
+DEBUG - 2021-01-10 07:35:06 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:35:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:35:06 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:35:06 --> Total execution time: 0.0285
+DEBUG - 2021-01-10 07:35:07 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:35:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:35:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:35:07 --> Total execution time: 0.0289
+DEBUG - 2021-01-10 07:35:08 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:35:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:35:08 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:35:08 --> Total execution time: 0.0291
+DEBUG - 2021-01-10 07:35:08 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:35:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:35:08 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:35:09 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:35:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:35:09 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:35:09 --> Total execution time: 0.0404
+DEBUG - 2021-01-10 07:35:15 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:35:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:35:15 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:35:15 --> Total execution time: 0.0428
+DEBUG - 2021-01-10 07:38:00 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:38:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:38:00 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:39:17 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:39:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:39:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:43:26 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:43:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:43:26 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 07:43:26 --> Query error: Unknown column 'votes' in 'field list' - Invalid query: SELECT SUM(votes) as total_votes
+FROM `study_doc_upvotes`
+WHERE `user_id` in (91,90,89,84,70) and `vote` = 1 
+DEBUG - 2021-01-10 07:43:51 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:43:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:43:51 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 07:43:51 --> Severity: Notice --> Undefined index: total_votes /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1956
+DEBUG - 2021-01-10 07:45:06 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:45:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:45:06 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 07:45:38 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 07:45:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 07:45:38 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:01:21 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:01:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:01:21 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:01:21 --> Total execution time: 0.0450
+DEBUG - 2021-01-10 08:01:23 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:01:23 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 08:01:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:01:23 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:01:24 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:01:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:01:24 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:01:24 --> Total execution time: 0.0434
+DEBUG - 2021-01-10 08:01:28 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:01:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:01:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:01:44 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:01:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:01:44 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:17:01 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:17:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:17:01 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:17:03 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:17:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:17:03 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:17:03 --> Total execution time: 0.0441
+DEBUG - 2021-01-10 08:17:05 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:17:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:17:05 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:17:05 --> Total execution time: 0.0473
+DEBUG - 2021-01-10 08:17:07 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:17:07 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 08:17:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:17:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:17:07 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:17:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:17:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:17:07 --> Total execution time: 0.0452
+DEBUG - 2021-01-10 08:20:49 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:20:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:20:49 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:22:42 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:22:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:22:42 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 08:22:42 --> Query error: Unknown column 'sdydy_doc_id' in 'where clause' - Invalid query: SELECT *
+FROM `study_doc_upvotes`
+WHERE `sdydy_doc_id` in (91,90,89,84,70) and `vote` = 1 
+DEBUG - 2021-01-10 08:22:59 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:22:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:22:59 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 08:22:59 --> Query error: Unknown column 'sdudy_doc_id' in 'where clause' - Invalid query: SELECT *
+FROM `study_doc_upvotes`
+WHERE `sdudy_doc_id` in (91,90,89,84,70) and `vote` = 1 
+DEBUG - 2021-01-10 08:23:20 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:23:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:23:20 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:24:40 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:24:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:24:40 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:24:40 --> Total execution time: 0.0426
+DEBUG - 2021-01-10 08:28:14 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:28:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:28:14 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:28:14 --> Total execution time: 0.0556
+DEBUG - 2021-01-10 08:46:50 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:46:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:46:51 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:46:51 --> Total execution time: 0.0541
+DEBUG - 2021-01-10 08:58:16 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 08:58:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 08:58:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 08:58:16 --> Total execution time: 0.0712
+DEBUG - 2021-01-10 09:06:07 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 09:06:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-10 09:06:07 --> Severity: error --> Exception: syntax error, unexpected ''conditions'' (T_CONSTANT_ENCAPSED_STRING), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1942
+DEBUG - 2021-01-10 09:06:24 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 09:06:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 09:06:24 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 09:06:24 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1944
+DEBUG - 2021-01-10 09:06:24 --> Total execution time: 0.0603
+DEBUG - 2021-01-10 09:07:05 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 09:07:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 09:07:05 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 09:07:05 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1946
+DEBUG - 2021-01-10 09:07:05 --> Total execution time: 0.0415
+DEBUG - 2021-01-10 09:07:33 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 09:07:33 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 09:07:34 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 09:07:34 --> Severity: Warning --> sizeof(): Parameter must be an array or an object that implements Countable /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1946
+DEBUG - 2021-01-10 09:07:34 --> Total execution time: 0.0608
+DEBUG - 2021-01-10 09:08:06 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 09:08:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 09:08:06 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 09:08:06 --> Total execution time: 0.0470
+DEBUG - 2021-01-10 09:08:49 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 09:08:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 09:08:49 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 09:08:49 --> Total execution time: 0.0414
+DEBUG - 2021-01-10 09:10:07 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 09:10:07 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 09:10:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 09:10:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 09:10:08 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 09:10:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 09:10:08 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 09:10:08 --> Total execution time: 0.0376
+DEBUG - 2021-01-10 09:11:09 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 09:11:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 09:11:09 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 09:11:09 --> Total execution time: 0.0549
+DEBUG - 2021-01-10 10:12:13 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 10:12:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 10:12:13 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined variable: point_calc_pa /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1926
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Trying to access array offset on value of type null /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1930
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1937
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1938
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1944
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1945
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined variable: point_calc_pa /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1946
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Trying to access array offset on value of type null /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1950
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1955
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1956
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1962
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1963
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Undefined variable: point_calc_pa /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1964
+ERROR - 2021-01-10 10:12:13 --> Severity: Notice --> Trying to access array offset on value of type null /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1968
+DEBUG - 2021-01-10 10:15:47 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 10:15:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 10:15:47 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 10:15:47 --> Total execution time: 0.0652
+DEBUG - 2021-01-10 12:05:09 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:05:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:05:09 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined variable: point_calc_pa /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1926
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Trying to access array offset on value of type null /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1930
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1937
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1938
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1944
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1945
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined variable: point_calc_pa /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1946
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Trying to access array offset on value of type null /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1950
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1955
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1956
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1962
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1963
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Undefined variable: point_calc_pa /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1964
+ERROR - 2021-01-10 12:05:09 --> Severity: Notice --> Trying to access array offset on value of type null /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1968
+DEBUG - 2021-01-10 12:07:23 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:07:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:07:23 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2021-01-10 12:07:23 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1939
+ERROR - 2021-01-10 12:07:23 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1940
+ERROR - 2021-01-10 12:07:23 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1946
+ERROR - 2021-01-10 12:07:23 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1947
+ERROR - 2021-01-10 12:07:23 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1957
+ERROR - 2021-01-10 12:07:23 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1958
+ERROR - 2021-01-10 12:07:23 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1964
+ERROR - 2021-01-10 12:07:23 --> Severity: Notice --> Undefined index: created_date /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 1965
+DEBUG - 2021-01-10 12:10:03 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:10:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:10:03 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:14:48 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:14:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:14:48 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:16:35 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:16:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:16:35 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:19:07 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:19:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:19:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:19:48 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:19:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:19:48 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:19:48 --> Total execution time: 0.0586
+DEBUG - 2021-01-10 12:21:29 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:21:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:21:29 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:21:29 --> Total execution time: 0.0782
+DEBUG - 2021-01-10 12:21:36 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:21:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:21:36 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:21:36 --> Total execution time: 0.0499
+DEBUG - 2021-01-10 12:22:41 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:22:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:22:41 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:22:41 --> Total execution time: 0.0614
+DEBUG - 2021-01-10 12:22:49 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:22:49 --> No URI present. Default controller set.
+DEBUG - 2021-01-10 12:22:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:22:49 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:22:50 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:22:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:22:50 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:22:50 --> Total execution time: 0.0685
+DEBUG - 2021-01-10 12:22:56 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:22:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:22:56 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:22:56 --> Total execution time: 0.0370
+DEBUG - 2021-01-10 12:23:06 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:23:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:23:06 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:23:06 --> Total execution time: 0.0425
+DEBUG - 2021-01-10 12:24:15 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:24:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:24:15 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:24:15 --> Total execution time: 0.0377
+DEBUG - 2021-01-10 12:24:35 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 12:24:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 12:24:35 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 12:24:35 --> Total execution time: 0.0638
+DEBUG - 2021-01-10 16:49:37 --> UTF-8 Support Enabled
+DEBUG - 2021-01-10 16:49:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-10 16:49:37 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-10 16:49:37 --> Total execution time: 0.0751

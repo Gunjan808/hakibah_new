@@ -1,0 +1,562 @@
+<?php is($data['course'], 'object') and is($data['university'], 'object') ? $course = $data['course'] and $university = $data['university'] : show_404() ?>
+<?php (is($course) and is($university)) or show_404() ?>
+<?php
+// echo '<pre>';
+// print_r($data);
+?>
+
+<style>
+    .breadcrumb {
+        background: transparent;
+        padding: 0;
+    }
+
+    .breadcrumb {
+        margin: 0 0 15px 0;
+        padding: 0;
+    }
+
+    .breadcrumb li {
+        color: #5bc787;
+        display: inline;
+        font-weight: 500;
+        font-size: 15px;
+        max-width: 450px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .breadcrumb li a:visited {
+        color: #5bc787;
+    }
+
+    .breadcrumb-item+.breadcrumb-item::before {
+        content: ">";
+    }
+
+    .widthMObile-img {
+        width: 15%;
+    }
+
+    @media (max-width: 767px) {
+        .flex-Mobile-xs {
+            flex-direction: row;
+        }
+
+        .widthMObile-img {
+            width: 150px;
+        }
+
+        .fontMobile-heading {
+            font-size: 1.5rem;
+        }
+
+        .nav-pills .mr-5 {
+            margin-right: 20px !important;
+        }
+
+        .nav-pills .nav-links h5 {
+            font-size: 16px;
+        }
+    }
+
+    @media (min-width: 768px) {
+        .breadcrumb {
+            margin: 0;
+        }
+    }
+
+    @media (max-width: 767px) {
+        .xs-100 {
+            width: 100%;
+        }
+
+        .flex-Mobile-xs {
+            flex-direction: row;
+        }
+
+        .widthMObile-img {
+            width: 150px;
+        }
+    }
+
+
+    /*MANISH CSS START*/
+    .font-14 {
+        font-size: 14px;
+    }
+
+    .btn-sm {
+        font-size: 12px;
+    }
+
+    .list {
+        flex: 0 0 20rem;
+        padding-left: 20px;
+        display: flex;
+    }
+
+    .list__item {
+        position: relative;
+        margin-right: 15px;
+    }
+
+    .list__item::marker {
+        content: "";
+    }
+
+    .list__item>.label {
+        border: 1px solid transparent;
+        border-radius: 50px;
+        padding: 4px 10px;
+    }
+
+    .list__item:hover>.label {
+        color: #17b862;
+        border: 1px solid #17b862;
+    }
+
+    .list__item:hover>.label::before {
+        border: 0.3rem solid #17b862;
+        margin-right: 7px;
+    }
+
+    .radio-btn {
+        position: absolute;
+        opacity: 0;
+        visibility: hidden;
+    }
+
+    .radio-btn:checked+.label {
+        color: #17b862;
+        border: 1px solid #17b862;
+        border-radius: 50px;
+        padding: 4px 10px;
+    }
+
+    .radio-btn:checked+.label::before {
+        margin-right: 7px;
+        border: 0.35rem solid #17b862;
+        background: #fff;
+    }
+
+    .label {
+        display: flex;
+        align-items: center;
+        padding: 0.75rem 0;
+        font-weight: bold;
+        color: #212529;
+        font-size: 14px;
+        cursor: pointer;
+        transition: all 0.25s linear;
+    }
+
+    .label::before {
+        display: inline-block;
+        content: "";
+        height: 1.125rem;
+        width: 1.125rem;
+        margin-right: 7px;
+        border: 0.5rem solid #fff;
+        border-radius: 50%;
+        transition: all 0.25s linear;
+        background: #ffffff;
+    }
+</style>
+<!-- Breadcrumb Section -->
+<script src="https://ajax.googleapis.com/ajax/libs/jquery/3.5.1/jquery.min.js"></script>
+
+<section class="py-4 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 d-inline-flex">
+                <svg class="ic ic-course ic-course--small" width="52" height="52" viewBox="0 0 16 12">
+                    <g fill="none" fill-rule="evenodd">
+                        <path fill=" #91bbd7" d="M1,2.55996637e-15 L3.74493372,9.54791801e-15 C4.10809886,1.0448872e-14 4.44271796,0.196889745 4.6190883,0.514352211 L6,2.99996073 L0,2.99996073 L-2.55351296e-15,1 C-2.62114833e-15,0.44771525 0.44771525,1.01453063e-16 1,0 Z"></path>
+                        <rect width="16" height="11" y="1" fill=" #91bbd7" rx="2"></rect>
+                        <rect width="16" height="10" y="2" fill="#569eba" rx="1"></rect>
+                        <rect width="3" height="1" x="11" y="7" fill="#FFF" rx=".5"></rect>
+                        <rect width="6" height="1" x="8" y="9" fill="#FFF" rx=".5"></rect>
+                    </g>
+                </svg>
+                <div class="ml-3">
+                    <h1 class="font-weight-bold text-secondary fontMobile-heading">
+                        <?php is($course->title, 'showCapital'); ?>
+                        &nbsp;(<?php is($course->course_code, 'show'); ?>)
+                    </h1>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-6 d-inline-flex ">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>institution">University</a></li>
+                        <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>institution/<?php is($university->slug, 'show'); ?>"> <?php is($university->title, 'showCapital'); ?></a></li>
+                        <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>course/<?php is($university->slug, 'show'); ?>/<?php is($course->slug, 'show'); ?>"><?php is($course->title, 'showCapital') ?>
+                                &nbsp;(<?php is($course->course_code, 'show') ?>)</a></li>
+                    </ol>
+                </nav>
+            </div>
+            <div class="col-md-12 my-2">
+                <?php if (!empty($data['my_course'])) : ?>
+                    <?php if (is_user_login()) : ?>
+                        <a href="<?php echo SITE_URL . 'remove-to-my-course/' . $university->slug . '/' . $course->slug . '/' . $course->id ?>" class="btn px-3 py-2 btn-primary shadow-none" id="my_course_remove_trgr">
+                            My Course
+                        </a>
+                    <?php else : ?>
+                        <a href="<?php echo SITE_URL; ?>login" class="btn px-3 py-2 btn-primary shadow-none" id="my_book_course_trgr">
+                            My Course
+                        </a>
+                    <?php endif; ?>
+                <?php else : ?>
+                    <?php if (is_user_login()) {
+                        $url = 'add-to-my-course/' . $university->slug . '/' . $course->slug . '/' . $course->id;
+                    } else {
+                        $url = 'login';
+                    } ?>
+                    <a href="<?php echo SITE_URL . $url; ?>" class="btn px-3 py-2 btn-primary shadow-none">
+                        Add to My Courses
+                    </a>
+                <?php endif; ?>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container mt-4">
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="nav custom-nav-pills nav-pills mb-3 border-bottom" id="pills-tab" role="tablist">
+                    <li class="nav-item mr-5" role="presentation">
+                        <a class="nav-links lead text-decoration-none text-primary active" id="pills-documents-tab" data-toggle="pill" href="#pills-documents" role="tab" aria-controls="pills-documents" aria-selected="true">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h5 class="mb-0"><strong>Documents (<?php is($data['total_docs'], 'show') ?>) </strong></h5>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                    <?php if (isset($_SESSION['USER_NAME']) && !empty($_SESSION['USER_NAME'])) : ?>
+                        <li class="nav-item mr-5" role="presentation">
+                            <a class="nav-links lead text-decoration-none text-primary" id="pills-group-tab" data-toggle="pill" href="#pills-group" role="tab" aria-controls="pills-group" aria-selected="false">
+                                <div class="row">
+                                    <div class="col-12">
+                                        <h5 class="mb-0"><strong>Group</strong></h5>
+                                    </div>
+                                </div>
+                            </a>
+                        </li>
+                    <?php endif; ?>
+                    <li class="nav-item mr-5 " role="presentation">
+                        <a class="nav-links lead text-decoration-none text-primary" id="pills-students-tab" data-toggle="pill" href="#pills-students" role="tab" aria-controls="pills-students" aria-selected="false">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h5 class="mb-0"><strong>Students(<?php echo $data['total_users_following_course'] ?>)</strong></h5>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                </ul>
+                <div class="tab-content" id="pills-tabContent">
+                    <div class="tab-pane fade show active" id="pills-documents" role="tabpanel" aria-labelledby="pills-documents-tab">
+                        <div class="row">
+                            <?php if (is($data['docs'])) : ?>
+                                <?php foreach ($data['docs'] as $key => $doc) : ?>
+                                    <div class="col-md-12 pt-3 border-bottom">
+                                        <h5 class="mb-0">
+                                            <?php is($key, 'showCapital'); ?>
+                                        </h5>
+                                        <div class="d-inline-flex dateRating mt-2">
+                                            <h6 class="text-decoration-none text-primary">
+                                                <a href="javascript:void()" class="text-decoration-none text-primary">Date <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+                                                        <polyline points="6 9 12 15 18 9"></polyline>
+
+
+                                                    </svg></a></h6>
+                                            <h6 class="text-decoration-none text-primary  ml-4">
+                                                <a href="javascript:void()" class="text-decoration-none text-primary">Rating <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+                                                        <polyline points="6 9 12 15 18 9"></polyline>
+
+
+                                                    </svg></a></h6>
+                                        </div>
+                                    </div>
+
+                                    <script>
+                                        $(document).ready(function() {
+                                            $('.dateRating h6:first-child a').addClass('active');
+                                            $('.dateRating h6 a').on('click', function() {
+                                                $('.dateRating h6 a.active').removeClass('active');
+                                                $(this).addClass('active');
+                                            });
+                                        })
+                                    </script>
+                                    <?php foreach ($doc as $document) : ?>
+                                        <div class="col-md-12 p-0 border-bottom mb-3 myHover">
+                                            <div class="d-flex p-3 flex-Mobile-xs">
+                                                <div class="mr-3 pt-3 px-3 widthMObile-img" style="background:#E2E2E2; height: 100px; overflow:hidden;">
+                                                    <img class="w-100" src="<?php is($document->image, 'show') ?>" alt="<?php is($document->title, 'showCapital'); ?>">
+                                                </div>
+                                                <div style="flex-grow: 1;">
+                                                    <div class="">
+                                                        <a href="<?php echo SITE_URL; ?>document/<?php is($document->slug, 'show'); ?>/<?php is($document->id, 'show'); ?>" class="text-primary d-block">
+                                                            <?php is($document->title, 'showCapital'); ?>
+                                                        </a>
+                                                        <small style="font-size: 12px;"><?php is($document->doc_pages, 'show') ?> pages</small>
+                                                    </div>
+                                                </div>
+                                                <div class="mr-5 year font-14">
+                                                    <?php is($document->academic_year, 'show'); ?>
+                                                </div>
+                                                <div class="font-14">
+                                                    <div class="text-success d-inline mr-2">
+                                                        <svg width="20" height="20" style="margin-bottom: 7px;" class="svg-inline--fa fa-thumbs-up fa-w-16 thumb--neBaI" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                                            <path fill="currentColor" d="M104 224H24c-13.255 0-24 10.745-24 24v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V248c0-13.255-10.745-24-24-24zM64 472c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zM384 81.452c0 42.416-25.97 66.208-33.277 94.548h101.723c33.397 0 59.397 27.746 59.553 58.098.084 17.938-7.546 37.249-19.439 49.197l-.11.11c9.836 23.337 8.237 56.037-9.308 79.469 8.681 25.895-.069 57.704-16.382 74.757 4.298 17.598 2.244 32.575-6.148 44.632C440.202 511.587 389.616 512 346.839 512l-2.845-.001c-48.287-.017-87.806-17.598-119.56-31.725-15.957-7.099-36.821-15.887-52.651-16.178-6.54-.12-11.783-5.457-11.783-11.998v-213.77c0-3.2 1.282-6.271 3.558-8.521 39.614-39.144 56.648-80.587 89.117-113.111 14.804-14.832 20.188-37.236 25.393-58.902C282.515 39.293 291.817 0 312 0c24 0 72 8 72 81.452z"></path>
+                                                        </svg>
+                                                    </div> 100%
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <?php endforeach; ?>
+                                <?php endforeach; ?>
+                            <?php endif; ?>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="pills-group" role="tabpanel" aria-labelledby="pills-group-tab">
+                        <div class="row mb-5">
+                            <div class="col-md-8">
+                                <div class="py-2 px-4 my-3 mb-4" style="background: #d7f0ff;">
+                                    <form action="" method="post">
+                                        <h5 class="mb-0 mt-3">Create post</h5>
+                                        <small>39 students in this course can reply to you!</small>
+                                        <div class="row mt-3">
+                                            <div class="col-md-1 text-center">
+                                                <div class="col-md-1">
+                                                    <div class="rounded-circle bg-warning p-1 text-center mr-1" style="width: 35px; height:35px">
+                                                        <?= substr($_SESSION['USER_NAME'], 0, 1) ?>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                            <div class="col-md-11">
+                                                <div class="form-group">
+                                                    <textarea name="course_post_title" id="" rows="3" class="form-control"></textarea>
+                                                </div>
+                                            </div>
+                                        </div>
+                                        <div class="d-flex justify-content-between pt-3">
+                                            <ul class="list">
+                                                <li class="list__item">
+                                                    <input type="radio" class="radio-btn" name="tag_type" id="a-opt" value="all" />
+                                                    <label for="a-opt" class="label" checked>All</label>
+                                                </li>
+
+                                                <li class="list__item">
+                                                    <input type="radio" class="radio-btn" name="tag_type" id="b-opt" value="Exam" />
+                                                    <label for="b-opt" class="label">Exam</label>
+                                                </li>
+
+                                                <li class="list__item">
+                                                    <input type="radio" class="radio-btn" name="tag_type" id="c-opt" value="Lectures" />
+                                                    <label for="c-opt" class="label">Lectures</label>
+                                                </li>
+
+                                                <li class="list__item">
+                                                    <input type="radio" class="radio-btn" name="tag_type" id="d-opt" value="Summaries" />
+                                                    <label for="d-opt" class="label">Summaries</label>
+                                                </li>
+                                                <li class="list__item">
+                                                    <input type="radio" class="radio-btn" name="tag_type" id="e-opt" value="Documents" />
+                                                    <label for="e-opt" class="label">Documents</label>
+                                                </li>
+                                                <li class="list__item">
+                                                    <input type="radio" class="radio-btn" name="tag_type" id="f-opt" value="Other" />
+                                                    <label for="f-opt" class="label">Other</label>
+                                                </li>
+                                            </ul>
+                                            <!--
+                                            <input type="radio" name="tag_type" class="btn btn-primary rounded-pill px-4 py-2" value="all" checked>
+                                            All
+                                            <input type="radio" name="tag_type" class="btn bg-light border border-seconady rounded-pill px-4 py-2" value="Exam">
+                                            Exam
+                                            <input type="radio" name="tag_type" class="btn bg-light border border-seconady rounded-pill px-4 py-2" value="Lectures">
+                                            Lectures
+                                            <input type="radio" name="tag_type" class="btn bg-light border border-seconady rounded-pill px-4 py-2" value="summaries">
+                                            Summaries
+                                            <input type="radio" name="tag_type" class="btn bg-light border border-seconady rounded-pill px-4 py-2" value="documents">
+                                            Documents
+                                            <input type="radio" name="tag_type" class="btn bg-light border border-seconady rounded-pill px-4 py-2" value="other">
+                                            Other
+                                            -->
+                                        </div>
+                                        <div class="col-12 pb-3 text-right">
+                                            <button class="btn btn-primary rounded-pill px-4 py-2" type="submit" name="course_post_submit">
+                                                Submit
+                                            </button>
+                                        </div>
+                                    </form>
+                                </div>
+
+
+
+
+                                <div class="my-3">
+                                    <?php foreach ($data['coursePosts'] as $val) : ?>
+                                        <div class="card mt-2">
+                                            <div class="card-body">
+                                                <div class="row">
+
+                                                    <div class="col-md-12">
+                                                        <div class="row align-items-center">
+                                                            <div class="col-md-1">
+                                                                <div class="rounded-circle bg-warning p-1 text-center mr-1" style="width: 35px; height:35px">
+                                                                    <?= substr($val['first_name'], 0, 1) ?>
+                                                                </div>
+                                                            </div>
+                                                            <div class="col-md-7">
+                                                                <span class="font-weight-bold mb-0"><?php echo $val['first_name'] ?></span>
+                                                                <small class="ml-1"><?php is($val['created_date'], 'date'); ?></small>
+                                                            </div>
+                                                            <div class="col-md-3 text-right">
+                                                                <button class="px-4 py-2 btn btn-light rounded-pill border border-seconadry">
+                                                                    <?php echo $val['tags'] ?>
+                                                                </button>
+                                                            </div>
+                                                            <div class="col-md-1">
+                                                                <div class="d-flex">
+                                                                    <!-- <div class="text-secondary">
+                                                                        <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width:22px;height:22px">
+                                                                            <path fill="currentColor" d="M503.691 189.836L327.687 37.851C312.281 24.546 288 35.347 288 56.015v80.053C127.371 137.907 0 170.1 0 322.326c0 61.441 39.581 122.309 83.333 154.132 13.653 9.931 33.111-2.533 28.077-18.631C66.066 312.814 132.917 274.316 288 272.085V360c0 20.7 24.3 31.453 39.687 18.164l176.004-152c11.071-9.562 11.086-26.753 0-36.328z"></path>
+                                                                        </svg>
+                                                                    </div> -->
+
+                                                                    <div class="text-secondary ml-3">
+                                                                        <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width:22px;height:22px">
+                                                                            <path fill="currentColor" d="M328 256c0 39.8-32.2 72-72 72s-72-32.2-72-72 32.2-72 72-72 72 32.2 72 72zm104-72c-39.8 0-72 32.2-72 72s32.2 72 72 72 72-32.2 72-72-32.2-72-72-72zm-352 0c-39.8 0-72 32.2-72 72s32.2 72 72 72 72-32.2 72-72-32.2-72-72-72z"></path>
+                                                                        </svg>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                        <div class="row pt-2 pb-2">
+                                                            <div class="offset-md-1 col-md-11 col-12">
+                                                                <h5><?php echo $val['title'] ?></h5>
+                                                            </div>
+                                                        </div>
+                                                        <div class="text-secondary d-inline-flex">
+                                                            <div class="text-<?= ($val['is_like'] == '1') ? 'primary' : 'secondary' ?> course_post_like_trgr" id="course_post_like_trgr_<?php echo $val['id'] ?>" data-attr-course_post_id="<?php echo $val['id'] ?>" data-attr-user_post_comment_like_status="<?php echo $val['is_like'] ?>" data-attr-user_vote=1>
+                                                                <svg mlns="http://www.w3.org/2000/svg" width="16" viewBox="0 0 512 512">
+                                                                    <path fill="currentColor" d="M104 224H24c-13.255 0-24 10.745-24 24v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V248c0-13.255-10.745-24-24-24zM64 472c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zM384 81.452c0 42.416-25.97 66.208-33.277 94.548h101.723c33.397 0 59.397 27.746 59.553 58.098.084 17.938-7.546 37.249-19.439 49.197l-.11.11c9.836 23.337 8.237 56.037-9.308 79.469 8.681 25.895-.069 57.704-16.382 74.757 4.298 17.598 2.244 32.575-6.148 44.632C440.202 511.587 389.616 512 346.839 512l-2.845-.001c-48.287-.017-87.806-17.598-119.56-31.725-15.957-7.099-36.821-15.887-52.651-16.178-6.54-.12-11.783-5.457-11.783-11.998v-213.77c0-3.2 1.282-6.271 3.558-8.521 39.614-39.144 56.648-80.587 89.117-113.111 14.804-14.832 20.188-37.236 25.393-58.902C282.515 39.293 291.817 0 312 0c24 0 72 8 72 81.452z"></path>
+                                                                </svg>
+                                                            </div>
+                                                            <div class="ml-3 mt-1">
+                                                                Like
+                                                            </div>
+                                                            <div class="ml-3 mt-1">
+                                                                <span class="badge badge-pill badge-light px-2 py-1" style="background: #f2f3f5;" id="course_post_like_count_spn_<?php echo $val['id'] ?>">
+                                                                    <?php echo $val['course_post_like_count']; ?>
+                                                                </span>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                    <div class="somthing_<?php echo $val['id'] ?>">
+                                                        <?php foreach ($val['replies'] as $reply) : ?>
+
+                                                            <div class="col-md-12 mt-5 px-5">
+                                                                <div class="row align-items-center">
+                                                                    <div class="col-md-2">
+                                                                        <div class="rounded-circle bg-warning p-1 text-center mr-1" style="width: 35px; height:35px">
+                                                                            <?= substr($val['first_name'], 0, 1) ?>
+                                                                        </div>
+                                                                    </div>
+                                                                    <div class="col-md-10">
+                                                                        <span class="font-weight-bold mb-0 pl-2"><?php echo $reply['first_name'] ?></span>
+                                                                        <small class="ml-1"><?php is($reply['created_date'], 'date'); ?></small>
+                                                                    </div>
+                                                                </div>
+                                                                <div class="row">
+                                                                    <div class="offset-md-2 col-md-10 col-12">
+                                                                        <h5 class="mt-2"> <?php echo $reply['title'] ?></h5>
+                                                                    </div>
+                                                                </div>
+                                                            </div>
+
+                                                        <?php endforeach; ?>
+                                                    </div>
+
+                                                </div>
+                                            </div>
+                                            <div class="caard-body">
+                                                <div class="col-md-12 border-top pt-3 pb-3">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-1 text-center">
+                                                            <div class="rounded-circle bg-warning p-1 text-center mr-1" style="width: 35px; height:35px">
+                                                                <?= substr($val['first_name'], 0, 1) ?>
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-10 col pl-0">
+                                                            <div class="form-group mb-0">
+                                                                <input type="text" id="comment_post_reply_<?php echo $val['id'] ?>" class="form-control border-0 shadow-none" placeholder="Enter your reply" name="comment" value="">
+                                                            </div>
+                                                        </div>
+                                                        <div class="col-md-1 col">
+                                                            <button class="btn btn-green white-text radius-50 course_post_reply_trgr float-right" name="reply" id="course_post_reply_trgr" type="button" data-attr-comment_id="<?php echo $val['id'] ?>" value="reply">reply</button>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <?php endforeach; ?>
+                                </div>
+                            </div>
+                        </div>
+
+                        <div class="col-md-4">
+                            <button class="btn btn-block btn-primary btn-lg">
+                                Create post
+                            </button>
+                            <div class="card mt-4">
+                                <div class="card-body">
+                                    <div class="text-center">
+                                        <svg xmlns="http://www.w3.org/2000/svg" width="118" height="56" fill="none" viewBox="0 0 118 56">
+                                            <path fill="#9B51E0" d="M20 48c11.046 0 20-8.954 20-20S31.046 8 20 8 0 16.954 0 28s8.954 20 20 20z"></path>
+                                            <path stroke="#fff" stroke-width="3" d="M15.5 26a3.5 3.5 0 11-7 0 3.5 3.5 0 017 0zM31.5 26a3.5 3.5 0 11-7 0 3.5 3.5 0 017 0z"></path>
+                                            <path fill="#219653" d="M98 48c11.046 0 20-8.954 20-20S109.046 8 98 8s-20 8.954-20 20 8.954 20 20 20z"></path>
+                                            <path stroke="#fff" stroke-width="3" d="M93.5 26a3.5 3.5 0 11-7 0 3.5 3.5 0 017 0zM109.5 26a3.5 3.5 0 11-7 0 3.5 3.5 0 017 0z"></path>
+                                            <path fill="#2F80ED" stroke="#fff" stroke-width="3" d="M59 54.5c14.635 0 26.5-11.864 26.5-26.5S73.635 1.5 59 1.5C44.364 1.5 32.5 13.364 32.5 28S44.364 54.5 59 54.5z"></path>
+                                            <path stroke="#fff" stroke-width="3" d="M53.75 25.5a4.75 4.75 0 11-9.5 0 4.75 4.75 0 019.5 0zM73.75 25.5a4.75 4.75 0 11-9.5 0 4.75 4.75 0 019.5 0z"></path>
+                                        </svg>
+                                        <h5>Did you know you can post anonymously?</h5>
+                                        <small>Get answers without revealing your name and face, it's that simple!</small>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="pills-students" role="tabpanel" aria-labelledby="pills-students-tab">
+                        <div class="row">
+                            <!--<div class="col-md-3 mb-3">-->
+                            <!--    <img src="<?php echo SITE_URL ?>assets/img/delete-user-17.jpeg" style="width: 20%" class="rounded-circle d-block" alt="">-->
+                            <!--    <a href="#" class="text-primary">Demo User</a>-->
+                            <!--</div>-->
+                            <!--<div class="col-md-3 mb-3">-->
+                            <!--    <img src="<?php echo SITE_URL ?>assets/img/delete-user-17.jpeg" style="width: 20%" class="rounded-circle d-block" alt="">-->
+                            <!--    <a href="#" class="text-primary">Demo User</a>-->
+                            <!--</div>-->
+                            <?php foreach ($data['user_follow_course'] as $user_follow_course) : ?>
+                                <div class="col-md-3 my-3">
+                                    <div class="col-md-1">
+                                        <div class="rounded-circle bg-warning p-1 text-center mr-1" style="width: 35px; height:35px">
+                                            <?= substr($user_follow_course['first_name'], 0, 1) ?>
+                                            <p class="text-primary mt-2"><?php echo $user_follow_course['first_name'] ?></p>
+                                        </div>
+                                    </div>
+                                </div>
+                            <?php endforeach; ?>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

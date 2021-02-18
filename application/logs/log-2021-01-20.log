@@ -1,0 +1,263 @@
+DEBUG - 2021-01-20 07:22:28 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 07:22:28 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 07:22:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 07:22:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 07:22:28 --> Total execution time: 0.0899
+DEBUG - 2021-01-20 07:52:34 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 07:52:34 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 07:52:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 07:52:34 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 07:52:34 --> Total execution time: 0.0731
+DEBUG - 2021-01-20 08:42:25 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 08:42:25 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 08:42:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 08:42:25 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 08:42:25 --> Total execution time: 0.1254
+DEBUG - 2021-01-20 11:07:58 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:07:58 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:07:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:07:58 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:00 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:00 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:00 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:11 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:11 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:11 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:12 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:12 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:12 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:14 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:14 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:14 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:19 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:19 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:19 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:19 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:20 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:20 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:20 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:20 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:22 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:22 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:22 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:24 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:24 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:24 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:38 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:38 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:38 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:38 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:39 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:39 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:39 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:42 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:42 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:42 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:42 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:43 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:43 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:43 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:43 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:45 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:45 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:45 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:45 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:46 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:46 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:46 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:46 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:54 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:54 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:54 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:58 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:58 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:58 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:58 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:08:59 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:08:59 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:08:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:08:59 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:00 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:00 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:00 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:00 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:05 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:05 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:05 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:06 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:06 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:06 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:07 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:07 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:07 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:08 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:08 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:08 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:09 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:09 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:09 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:09 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:09 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:09 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:10 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:10 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:10 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:11 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:11 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:11 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:11 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:13 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:13 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:13 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:15 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:15 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:15 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:15 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:17 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:17 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:17 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:17 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:22 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:22 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:22 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:22 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:24 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:24 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:24 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:24 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:27 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:27 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:27 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:27 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:28 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:28 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:28 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:28 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:09:31 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:09:31 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:09:31 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:09:31 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:10:05 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:10:05 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:10:05 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:10:05 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:10:06 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:10:06 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:10:06 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:10:06 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:10:08 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:10:08 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:10:08 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:10:08 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:10:09 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:10:09 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:10:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:10:09 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:10:10 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:10:10 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:10:10 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:10:10 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:10:12 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:10:12 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:10:12 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:10:12 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:10:13 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:10:13 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:10:13 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:10:13 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:10:14 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:10:14 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:10:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:10:14 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:11:18 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:11:18 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:11:18 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:11:18 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:11:21 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:11:21 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:11:21 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:11:21 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:11:39 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:11:39 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:11:39 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:11:39 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:13:16 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:13:16 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:13:16 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2021-01-20 11:13:16 --> Severity: error --> Exception: syntax error, unexpected '...' (T_ELLIPSIS), expecting ']' /home1/developmentconso/public_html/hakibah/application/controllers/Page.php 379
+DEBUG - 2021-01-20 11:16:02 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:16:02 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:16:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:16:02 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:16:02 --> Total execution time: 0.0882
+DEBUG - 2021-01-20 11:16:05 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:16:05 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:16:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:16:05 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:16:05 --> Total execution time: 0.0372
+DEBUG - 2021-01-20 11:16:41 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:16:41 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:16:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:16:41 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:16:41 --> Total execution time: 0.0353
+DEBUG - 2021-01-20 11:16:42 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:16:42 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:16:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:16:42 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:16:42 --> Total execution time: 0.0410
+DEBUG - 2021-01-20 11:16:43 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:16:43 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:16:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:16:43 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:16:43 --> Total execution time: 0.0382
+DEBUG - 2021-01-20 11:16:43 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:16:43 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:16:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:16:43 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:16:43 --> Total execution time: 0.0409
+DEBUG - 2021-01-20 11:16:44 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:16:44 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:16:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:16:44 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:16:44 --> Total execution time: 0.0380
+DEBUG - 2021-01-20 11:16:46 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:16:46 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:16:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:16:46 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:16:46 --> Total execution time: 0.0338
+DEBUG - 2021-01-20 11:16:49 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:16:49 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:16:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:16:49 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:16:49 --> Total execution time: 0.0387
+DEBUG - 2021-01-20 11:18:52 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:18:52 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:18:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:18:52 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:18:52 --> Total execution time: 0.0405
+DEBUG - 2021-01-20 11:19:00 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:19:00 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:19:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:19:00 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:19:00 --> Total execution time: 0.0433
+DEBUG - 2021-01-20 11:30:36 --> UTF-8 Support Enabled
+DEBUG - 2021-01-20 11:30:36 --> No URI present. Default controller set.
+DEBUG - 2021-01-20 11:30:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2021-01-20 11:30:36 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2021-01-20 11:30:37 --> Total execution time: 0.0763

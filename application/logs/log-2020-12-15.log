@@ -1,0 +1,1988 @@
+DEBUG - 2020-12-15 11:16:50 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:16:51 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 11:16:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:16:51 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:16:51 --> Severity: Notice --> compact(): Undefined variable: likedLists /opt/lampp/htdocs/hakibah/application/controllers/Page.php 141
+DEBUG - 2020-12-15 11:16:51 --> Total execution time: 0.2629
+DEBUG - 2020-12-15 11:20:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:20:00 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 11:20:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:20:00 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:20:00 --> Severity: Notice --> compact(): Undefined variable: likedLists /opt/lampp/htdocs/hakibah/application/controllers/Page.php 141
+DEBUG - 2020-12-15 11:20:00 --> Total execution time: 0.0525
+DEBUG - 2020-12-15 11:22:18 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:22:18 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 11:22:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:22:18 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:22:18 --> Total execution time: 0.0415
+DEBUG - 2020-12-15 11:45:02 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:45:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:45:02 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:45:02 --> Total execution time: 0.3343
+DEBUG - 2020-12-15 11:45:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:45:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:45:05 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:45:05 --> Total execution time: 0.0558
+DEBUG - 2020-12-15 11:45:08 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:45:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:45:08 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:45:08 --> Total execution time: 0.0634
+DEBUG - 2020-12-15 11:45:08 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:45:08 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 11:45:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:45:08 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:45:08 --> Total execution time: 0.0357
+DEBUG - 2020-12-15 11:45:09 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:45:09 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 11:45:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:45:09 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:45:09 --> Total execution time: 0.0366
+DEBUG - 2020-12-15 11:45:15 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:45:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:45:15 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:45:15 --> Total execution time: 0.0291
+DEBUG - 2020-12-15 11:45:24 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:45:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:45:24 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:45:24 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:45:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:45:24 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:45:24 --> Total execution time: 0.1319
+DEBUG - 2020-12-15 11:45:24 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:45:24 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 11:45:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:45:24 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:45:24 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:45:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:45:24 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:45:24 --> Total execution time: 0.0583
+DEBUG - 2020-12-15 11:46:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:46:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:46:52 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:46:52 --> Total execution time: 0.0399
+DEBUG - 2020-12-15 11:46:59 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:46:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:46:59 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:46:59 --> Severity: Notice --> Undefined variable: likedLists /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 6
+DEBUG - 2020-12-15 11:47:12 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:47:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:47:12 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:50:04 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:04 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:50:06 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:06 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:50:06 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+DEBUG - 2020-12-15 11:50:06 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:06 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:50:06 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+DEBUG - 2020-12-15 11:50:06 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:06 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:50:06 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+DEBUG - 2020-12-15 11:50:06 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:06 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:50:06 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+DEBUG - 2020-12-15 11:50:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:07 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:50:07 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+DEBUG - 2020-12-15 11:50:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:07 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:50:07 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+DEBUG - 2020-12-15 11:50:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:07 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:50:07 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+DEBUG - 2020-12-15 11:50:17 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:18 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 11:50:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+DEBUG - 2020-12-15 11:50:18 --> Total execution time: 0.0484
+DEBUG - 2020-12-15 11:50:18 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:35 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:35 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 11:50:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:36 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:50:36 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 11:50:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 11:50:36 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 11:50:36 --> Total execution time: 0.0386
+DEBUG - 2020-12-15 12:15:57 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:15:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:15:57 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:15:57 --> Total execution time: 0.0358
+DEBUG - 2020-12-15 12:16:09 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:16:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:16:09 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:16:09 --> Total execution time: 0.0378
+DEBUG - 2020-12-15 12:23:41 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:23:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:23:41 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:23:41 --> Total execution time: 0.0651
+DEBUG - 2020-12-15 12:24:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:24:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:24:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:24:28 --> Total execution time: 0.0576
+DEBUG - 2020-12-15 12:24:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:24:28 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 12:24:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:24:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:24:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:24:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:24:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:24:28 --> Total execution time: 0.0455
+DEBUG - 2020-12-15 12:24:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:24:28 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 12:24:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:24:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:24:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:24:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:24:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:24:28 --> Total execution time: 0.0338
+DEBUG - 2020-12-15 12:24:34 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:24:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:24:34 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:24:34 --> Total execution time: 0.0435
+DEBUG - 2020-12-15 12:28:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:28:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:28:30 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:28:30 --> Total execution time: 0.0347
+DEBUG - 2020-12-15 12:28:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:28:30 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 12:28:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:28:30 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:28:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:28:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:28:30 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:28:30 --> Total execution time: 0.0492
+DEBUG - 2020-12-15 12:28:38 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:28:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:28:38 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:28:38 --> Total execution time: 0.0400
+DEBUG - 2020-12-15 12:28:43 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:28:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:28:43 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:28:43 --> Total execution time: 0.0678
+DEBUG - 2020-12-15 12:29:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:29:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:29:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:29:28 --> Total execution time: 0.0364
+DEBUG - 2020-12-15 12:29:47 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:29:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:29:47 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:29:47 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+DEBUG - 2020-12-15 12:29:47 --> Total execution time: 0.5789
+DEBUG - 2020-12-15 12:29:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:29:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:29:54 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:29:54 --> Total execution time: 0.0569
+DEBUG - 2020-12-15 12:34:19 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:34:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:34:19 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:34:19 --> Total execution time: 0.0514
+DEBUG - 2020-12-15 12:34:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:34:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:34:23 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:34:23 --> Total execution time: 0.0340
+DEBUG - 2020-12-15 12:34:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:34:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:34:23 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:34:23 --> Total execution time: 0.0381
+DEBUG - 2020-12-15 12:34:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:34:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:34:24 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:34:24 --> Total execution time: 0.0396
+DEBUG - 2020-12-15 12:37:11 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:37:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:37:11 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 109
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 114
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 12:37:11 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+DEBUG - 2020-12-15 12:37:11 --> Total execution time: 0.1965
+DEBUG - 2020-12-15 12:37:11 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:37:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:37:16 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 12:37:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:37:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:37:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:37:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:37:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:37:16 --> Total execution time: 0.0288
+DEBUG - 2020-12-15 12:37:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:37:16 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 12:37:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:37:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:37:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:37:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:37:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:37:17 --> Total execution time: 0.0385
+DEBUG - 2020-12-15 12:37:41 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:37:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:37:41 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:37:41 --> Total execution time: 0.0607
+DEBUG - 2020-12-15 12:37:48 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:37:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:37:48 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:37:48 --> Total execution time: 0.0386
+DEBUG - 2020-12-15 12:38:08 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:38:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:38:08 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:38:08 --> Total execution time: 0.0389
+DEBUG - 2020-12-15 12:38:26 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:38:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:38:26 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:38:26 --> Total execution time: 0.0368
+DEBUG - 2020-12-15 12:38:51 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:38:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:38:51 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:38:51 --> Total execution time: 0.0361
+DEBUG - 2020-12-15 12:39:09 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:39:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:39:09 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:39:09 --> Total execution time: 0.0341
+DEBUG - 2020-12-15 12:42:06 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:42:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:42:06 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:42:06 --> Total execution time: 0.0354
+DEBUG - 2020-12-15 12:43:38 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:43:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:43:38 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:43:38 --> Total execution time: 0.0348
+DEBUG - 2020-12-15 12:46:59 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:46:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:46:59 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:46:59 --> Total execution time: 0.0660
+DEBUG - 2020-12-15 12:58:11 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:58:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:58:11 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:58:12 --> Total execution time: 0.9461
+DEBUG - 2020-12-15 12:58:35 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:58:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:58:35 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:58:35 --> Total execution time: 0.0381
+DEBUG - 2020-12-15 12:58:56 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 12:58:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 12:58:56 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 12:58:56 --> Total execution time: 0.0384
+DEBUG - 2020-12-15 13:01:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:01:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:01:23 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:01:23 --> Total execution time: 0.0606
+DEBUG - 2020-12-15 13:04:18 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:04:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:04:18 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:04:18 --> Total execution time: 0.0446
+DEBUG - 2020-12-15 13:11:45 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:11:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:11:45 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:11:45 --> Total execution time: 0.0354
+DEBUG - 2020-12-15 13:12:40 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:12:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:12:40 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:12:40 --> Total execution time: 0.0346
+DEBUG - 2020-12-15 13:17:18 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:17:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:17:18 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:17:18 --> Total execution time: 0.0383
+DEBUG - 2020-12-15 13:19:01 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:19:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:19:01 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:19:01 --> Total execution time: 0.0376
+DEBUG - 2020-12-15 13:19:48 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:19:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:19:49 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:19:49 --> Total execution time: 0.0376
+DEBUG - 2020-12-15 13:19:56 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:19:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:19:56 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:19:56 --> Total execution time: 0.0365
+DEBUG - 2020-12-15 13:22:14 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:22:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:22:14 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:22:14 --> Total execution time: 0.0351
+DEBUG - 2020-12-15 13:22:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:22:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:22:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:22:16 --> Total execution time: 0.0327
+DEBUG - 2020-12-15 13:22:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:22:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:22:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:22:16 --> Total execution time: 0.0619
+DEBUG - 2020-12-15 13:22:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:22:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:22:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:22:17 --> Total execution time: 0.0457
+DEBUG - 2020-12-15 13:22:17 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:22:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:22:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:22:17 --> Total execution time: 0.0424
+DEBUG - 2020-12-15 13:22:17 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:22:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:22:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:22:17 --> Total execution time: 0.0660
+DEBUG - 2020-12-15 13:22:17 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:22:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:22:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:22:17 --> Total execution time: 0.0475
+DEBUG - 2020-12-15 13:22:17 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:22:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:22:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:22:17 --> Total execution time: 0.0489
+DEBUG - 2020-12-15 13:22:17 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:22:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:22:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:22:17 --> Total execution time: 0.0562
+DEBUG - 2020-12-15 13:23:08 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:23:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:23:08 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:23:08 --> Total execution time: 0.0331
+DEBUG - 2020-12-15 13:23:29 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:23:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:23:29 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:23:29 --> Total execution time: 0.0403
+DEBUG - 2020-12-15 13:36:46 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:36:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:36:46 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:36:46 --> Total execution time: 0.0420
+DEBUG - 2020-12-15 13:47:51 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:47:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:47:51 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:47:51 --> Total execution time: 0.4331
+DEBUG - 2020-12-15 13:48:35 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:48:35 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:48:35 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:48:35 --> Total execution time: 0.0374
+DEBUG - 2020-12-15 13:48:41 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:48:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:48:41 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:48:41 --> Total execution time: 0.0796
+DEBUG - 2020-12-15 13:51:08 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:51:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:51:08 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:51:08 --> Total execution time: 0.0666
+DEBUG - 2020-12-15 13:53:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:53:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:53:23 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:53:23 --> Total execution time: 0.0446
+DEBUG - 2020-12-15 13:59:13 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 13:59:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 13:59:13 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 13:59:13 --> Total execution time: 0.1279
+DEBUG - 2020-12-15 14:02:18 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:02:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:02:18 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:02:18 --> Total execution time: 0.0543
+DEBUG - 2020-12-15 14:11:08 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:11:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:11:09 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:11:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:11:09 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:11:09 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:11:10 --> Total execution time: 1.9824
+DEBUG - 2020-12-15 14:11:10 --> Total execution time: 1.2451
+DEBUG - 2020-12-15 14:29:24 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:29:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:29:25 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:29:48 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:29:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:29:48 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:31:38 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:31:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:31:38 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:31:55 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:31:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:31:55 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:34:26 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:34:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:34:26 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:34:27 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:34:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:34:27 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:34:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:34:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:34:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:34:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:34:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:34:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:34:29 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:34:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:34:29 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:34:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:34:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:34:30 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:34:31 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:34:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:34:31 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:34:31 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:34:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:34:31 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:36:29 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:36:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:36:29 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:37:27 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:37:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:37:27 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:37:29 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:37:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:37:29 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:37:29 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:37:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:37:29 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:41:57 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:41:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:41:57 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:41:58 --> Severity: Notice --> Undefined variable: likeLists /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:43:22 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:43:22 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:43:22 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:43:22 --> Severity: Notice --> Undefined variable: likeLists /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:43:50 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:43:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:43:50 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:43:50 --> Severity: Notice --> Undefined variable: likeLists /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:43:51 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:43:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:43:52 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:43:52 --> Severity: Notice --> Undefined variable: likeLists /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:43:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:43:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:43:52 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:43:52 --> Severity: Notice --> Undefined variable: likeLists /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:43:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:43:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:43:52 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:43:52 --> Severity: Notice --> Undefined variable: likeLists /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:43:57 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:43:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:43:57 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:43:57 --> Severity: Notice --> Undefined variable: likeLists /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:45:21 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:45:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:45:21 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:45:21 --> Severity: Notice --> Undefined variable: likeLists /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:45:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:45:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:45:28 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:45:28 --> Severity: Notice --> Undefined variable: abc /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:46:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:46:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:46:23 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:46:23 --> Severity: Notice --> Undefined variable: abc /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:54:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:54:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:54:17 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:54:17 --> Severity: Notice --> Undefined variable: abc /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 5
+DEBUG - 2020-12-15 14:57:43 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:57:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:57:43 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 14:57:43 --> Severity: Notice --> Undefined variable: data /opt/lampp/htdocs/hakibah/application/controllers/Page.php 554
+DEBUG - 2020-12-15 14:58:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:58:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:58:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 14:59:44 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 14:59:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 14:59:44 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:00:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:00:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:00:00 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+DEBUG - 2020-12-15 15:00:00 --> Total execution time: 0.0656
+DEBUG - 2020-12-15 15:00:01 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:00:14 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:00:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:00:14 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:00:37 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:00:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:00:37 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:00:42 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:00:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:00:42 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 108
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 113
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 15:00:42 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 119
+DEBUG - 2020-12-15 15:00:42 --> Total execution time: 0.0461
+DEBUG - 2020-12-15 15:00:42 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:04:36 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:04:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:04:36 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:04:36 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:04:47 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:04:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:04:47 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:04:47 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:06:29 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:06:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:06:29 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:06:29 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:06:47 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:06:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:06:47 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:06:47 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:08:45 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:08:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:08:45 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 121
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 123
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 121
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 123
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:08:45 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+DEBUG - 2020-12-15 15:08:45 --> Total execution time: 0.0993
+DEBUG - 2020-12-15 15:08:45 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:09:01 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:09:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:09:01 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 121
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 123
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 121
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 123
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:09:01 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+DEBUG - 2020-12-15 15:09:01 --> Total execution time: 0.0373
+DEBUG - 2020-12-15 15:09:01 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:09:03 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:09:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:09:03 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:09:03 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:09:03 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:09:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:09:03 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:09:03 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:09:25 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:09:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:09:25 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 121
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 123
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 116
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 121
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 123
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:09:25 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+DEBUG - 2020-12-15 15:09:25 --> Total execution time: 0.0354
+DEBUG - 2020-12-15 15:09:25 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:10:06 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:10:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:10:06 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:10:06 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:11:12 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:11:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:11:12 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:11:12 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:11:18 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:11:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:11:18 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 121
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 125
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 125
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 126
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 128
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 132
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 121
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 125
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 125
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 126
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 128
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 132
+ERROR - 2020-12-15 15:11:18 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 112
+DEBUG - 2020-12-15 15:11:18 --> Total execution time: 0.0410
+DEBUG - 2020-12-15 15:11:18 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:16:03 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:16:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:16:03 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:16:03 --> Total execution time: 0.1814
+DEBUG - 2020-12-15 15:16:10 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:16:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:16:10 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:16:10 --> 404 Page Not Found: 
+DEBUG - 2020-12-15 15:16:15 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:16:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:16:15 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:16:15 --> 404 Page Not Found: 
+DEBUG - 2020-12-15 15:22:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:22:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:22:23 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:22:57 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:22:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:22:58 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:23:27 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:23:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:23:27 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:24:43 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:24:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:24:43 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:24:43 --> Total execution time: 0.0352
+DEBUG - 2020-12-15 15:24:48 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:24:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:24:48 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:26:50 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:26:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:26:50 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:31:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:31:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:31:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:31:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:31:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:31:52 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 36
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 125
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 131
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 125
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 131
+ERROR - 2020-12-15 15:31:52 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 111
+DEBUG - 2020-12-15 15:31:52 --> Total execution time: 0.0536
+DEBUG - 2020-12-15 15:31:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:31:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:32:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:32:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:32:00 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 36
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 125
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 131
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 125
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 131
+ERROR - 2020-12-15 15:32:00 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 111
+DEBUG - 2020-12-15 15:32:00 --> Total execution time: 0.0374
+DEBUG - 2020-12-15 15:32:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:32:40 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:32:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:32:40 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 36
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 125
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 131
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'image' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'slug' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'id' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 124
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'title' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 125
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'doc_pages' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 127
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Attempt to modify property 'academic_year' of non-object /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 131
+ERROR - 2020-12-15 15:32:40 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 111
+DEBUG - 2020-12-15 15:32:40 --> Total execution time: 0.0384
+DEBUG - 2020-12-15 15:32:40 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:32:41 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:32:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:32:41 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:33:24 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:33:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:33:24 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:33:24 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:33:27 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:33:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:33:27 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:33:27 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:33:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:33:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:33:28 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:33:28 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:33:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:33:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:33:28 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:33:28 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:35:41 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:35:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:35:42 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:35:42 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:36:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:36:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:36:00 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:36:00 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:36:14 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:36:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:36:14 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:36:14 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:36:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:36:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:36:16 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:36:16 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:36:16 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 15:36:16 --> Total execution time: 0.0363
+DEBUG - 2020-12-15 15:36:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:36:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:36:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:36:16 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:36:16 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:36:16 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 15:36:16 --> Total execution time: 0.0387
+DEBUG - 2020-12-15 15:36:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:36:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:36:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:36:52 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:36:52 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:36:52 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 15:36:52 --> Total execution time: 0.0351
+DEBUG - 2020-12-15 15:36:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:37:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:37:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:37:54 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:37:54 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:37:54 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 120
+DEBUG - 2020-12-15 15:37:54 --> Total execution time: 0.0346
+DEBUG - 2020-12-15 15:38:43 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:38:43 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:38:43 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:38:43 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:39:01 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:39:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:39:01 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:39:01 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 15:42:25 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:42:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:42:25 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:42:25 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:42:25 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 126
+DEBUG - 2020-12-15 15:42:25 --> Total execution time: 0.1045
+DEBUG - 2020-12-15 15:43:51 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:43:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:43:51 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:43:51 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:43:51 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 126
+DEBUG - 2020-12-15 15:43:51 --> Total execution time: 0.0323
+DEBUG - 2020-12-15 15:43:53 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:43:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:43:53 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:43:53 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:43:53 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 126
+DEBUG - 2020-12-15 15:43:53 --> Total execution time: 0.0368
+DEBUG - 2020-12-15 15:43:53 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:43:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:43:53 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:43:53 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:43:53 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 126
+DEBUG - 2020-12-15 15:43:53 --> Total execution time: 0.0340
+DEBUG - 2020-12-15 15:47:08 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:47:08 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:47:08 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:47:08 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:47:08 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 126
+DEBUG - 2020-12-15 15:47:08 --> Total execution time: 0.0388
+DEBUG - 2020-12-15 15:48:15 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:48:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:48:16 --> Total execution time: 0.3265
+DEBUG - 2020-12-15 15:48:24 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:48:24 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:48:25 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:48:25 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 15:48:25 --> Total execution time: 0.0885
+DEBUG - 2020-12-15 15:48:44 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:48:44 --> Total execution time: 0.0933
+DEBUG - 2020-12-15 15:48:44 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:44 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:48:44 --> 404 Page Not Found: List/uploads
+DEBUG - 2020-12-15 15:48:49 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:48:49 --> Total execution time: 0.0566
+DEBUG - 2020-12-15 15:48:49 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:49 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:48:49 --> 404 Page Not Found: Add/uploads
+DEBUG - 2020-12-15 15:48:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:48:54 --> Total execution time: 0.0667
+DEBUG - 2020-12-15 15:48:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:48:54 --> 404 Page Not Found: List/uploads
+DEBUG - 2020-12-15 15:48:56 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:48:56 --> Total execution time: 0.0365
+DEBUG - 2020-12-15 15:48:56 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:56 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:48:56 --> 404 Page Not Found: Add/uploads
+DEBUG - 2020-12-15 15:48:59 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:48:59 --> Total execution time: 0.0648
+DEBUG - 2020-12-15 15:48:59 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:48:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:48:59 --> 404 Page Not Found: List/uploads
+DEBUG - 2020-12-15 15:49:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:49:00 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:49:00 --> Severity: Notice --> Undefined property: stdClass::$class /opt/lampp/htdocs/hakibah/application/controllers/AjaxController.php 598
+ERROR - 2020-12-15 15:49:00 --> Severity: Notice --> Undefined property: stdClass::$title /opt/lampp/htdocs/hakibah/application/controllers/AjaxController.php 598
+ERROR - 2020-12-15 15:49:00 --> Severity: Notice --> Undefined property: stdClass::$class /opt/lampp/htdocs/hakibah/application/controllers/AjaxController.php 598
+ERROR - 2020-12-15 15:49:00 --> Severity: Notice --> Undefined property: stdClass::$title /opt/lampp/htdocs/hakibah/application/controllers/AjaxController.php 598
+DEBUG - 2020-12-15 15:49:00 --> Total execution time: 0.0494
+DEBUG - 2020-12-15 15:49:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:49:07 --> Total execution time: 0.0700
+DEBUG - 2020-12-15 15:49:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:07 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:49:07 --> 404 Page Not Found: List/uploads
+DEBUG - 2020-12-15 15:49:09 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:49:09 --> Total execution time: 0.0544
+DEBUG - 2020-12-15 15:49:09 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:49:09 --> 404 Page Not Found: Add/uploads
+DEBUG - 2020-12-15 15:49:36 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:49:36 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:49:36 --> Total execution time: 0.0187
+DEBUG - 2020-12-15 15:49:36 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:36 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:49:36 --> 404 Page Not Found: Add/uploads
+DEBUG - 2020-12-15 15:49:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:49:54 --> Total execution time: 0.0216
+DEBUG - 2020-12-15 15:49:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:54 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:49:54 --> 404 Page Not Found: List/uploads
+DEBUG - 2020-12-15 15:49:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:49:55 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:49:55 --> Severity: Notice --> Undefined property: stdClass::$class /opt/lampp/htdocs/hakibah/application/controllers/AjaxController.php 598
+ERROR - 2020-12-15 15:49:55 --> Severity: Notice --> Undefined property: stdClass::$title /opt/lampp/htdocs/hakibah/application/controllers/AjaxController.php 598
+ERROR - 2020-12-15 15:49:55 --> Severity: Notice --> Undefined property: stdClass::$class /opt/lampp/htdocs/hakibah/application/controllers/AjaxController.php 598
+ERROR - 2020-12-15 15:49:55 --> Severity: Notice --> Undefined property: stdClass::$title /opt/lampp/htdocs/hakibah/application/controllers/AjaxController.php 598
+DEBUG - 2020-12-15 15:49:55 --> Total execution time: 0.0328
+DEBUG - 2020-12-15 15:49:59 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:59 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:49:59 --> Total execution time: 0.0714
+DEBUG - 2020-12-15 15:49:59 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:49:59 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:49:59 --> 404 Page Not Found: List/uploads
+DEBUG - 2020-12-15 15:50:01 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:50:01 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:50:01 --> Total execution time: 0.0407
+DEBUG - 2020-12-15 15:50:01 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:50:01 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:50:01 --> 404 Page Not Found: Add/uploads
+DEBUG - 2020-12-15 15:50:09 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:50:09 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:50:09 --> Total execution time: 0.0445
+DEBUG - 2020-12-15 15:50:09 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:50:09 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:50:09 --> 404 Page Not Found: List/uploads
+DEBUG - 2020-12-15 15:50:13 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:50:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:50:13 --> Total execution time: 0.0359
+DEBUG - 2020-12-15 15:50:14 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:50:14 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:50:14 --> 404 Page Not Found: Edit/setting
+DEBUG - 2020-12-15 15:50:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:50:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:50:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:50:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:50:30 --> Total execution time: 0.0189
+DEBUG - 2020-12-15 15:50:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:50:30 --> Global POST, GET and COOKIE data sanitized
+ERROR - 2020-12-15 15:50:30 --> 404 Page Not Found: List/uploads
+DEBUG - 2020-12-15 15:51:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:51:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:51:07 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:51:07 --> Severity: Notice --> compact(): Undefined variable: abc /opt/lampp/htdocs/hakibah/application/controllers/Page.php 557
+ERROR - 2020-12-15 15:51:07 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:51:07 --> Severity: Notice --> Undefined index: abc /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 93
+ERROR - 2020-12-15 15:51:07 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 93
+DEBUG - 2020-12-15 15:51:07 --> Total execution time: 0.0652
+DEBUG - 2020-12-15 15:56:14 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:56:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:56:14 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:56:14 --> Severity: Notice --> compact(): Undefined variable: abc /opt/lampp/htdocs/hakibah/application/controllers/Page.php 555
+ERROR - 2020-12-15 15:56:14 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:56:14 --> Severity: Notice --> Undefined index: abc /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 93
+ERROR - 2020-12-15 15:56:14 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 93
+DEBUG - 2020-12-15 15:56:14 --> Total execution time: 0.0388
+DEBUG - 2020-12-15 15:56:42 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:56:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:56:42 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:56:42 --> Severity: Notice --> compact(): Undefined variable: abc /opt/lampp/htdocs/hakibah/application/controllers/Page.php 553
+ERROR - 2020-12-15 15:56:42 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:56:42 --> Severity: Notice --> Undefined index: abc /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 93
+ERROR - 2020-12-15 15:56:42 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 93
+DEBUG - 2020-12-15 15:56:42 --> Total execution time: 0.0347
+DEBUG - 2020-12-15 15:58:34 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 15:58:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 15:58:34 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 15:58:34 --> Severity: Notice --> Undefined variable: abc /opt/lampp/htdocs/hakibah/application/controllers/Page.php 553
+ERROR - 2020-12-15 15:58:34 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 15:58:34 --> Severity: Notice --> Undefined index: abc /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 93
+ERROR - 2020-12-15 15:58:34 --> Severity: Warning --> Invalid argument supplied for foreach() /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 93
+DEBUG - 2020-12-15 15:58:34 --> Total execution time: 0.0342
+DEBUG - 2020-12-15 16:00:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:00:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:00:23 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:00:23 --> Severity: Notice --> Undefined variable: abc /opt/lampp/htdocs/hakibah/application/controllers/Page.php 554
+DEBUG - 2020-12-15 16:01:39 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:01:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:01:39 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:01:39 --> Severity: Notice --> Undefined variable: abc /opt/lampp/htdocs/hakibah/application/controllers/Page.php 554
+DEBUG - 2020-12-15 16:02:11 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:11 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:02:11 --> 404 Page Not Found: 
+DEBUG - 2020-12-15 16:02:14 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:14 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 16:02:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:14 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:14 --> Total execution time: 0.0550
+DEBUG - 2020-12-15 16:02:17 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:17 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:17 --> Total execution time: 0.0548
+DEBUG - 2020-12-15 16:02:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:23 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:23 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:23 --> Total execution time: 0.0325
+DEBUG - 2020-12-15 16:02:24 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:24 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:24 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:24 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:24 --> Total execution time: 0.0299
+DEBUG - 2020-12-15 16:02:25 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:25 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:25 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:25 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:25 --> Total execution time: 0.0305
+DEBUG - 2020-12-15 16:02:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:30 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:30 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:30 --> Total execution time: 0.0622
+DEBUG - 2020-12-15 16:02:39 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:39 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:39 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:39 --> Total execution time: 0.0472
+DEBUG - 2020-12-15 16:02:42 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:42 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:42 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:02:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:02:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:02:52 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:02:52 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:02:52 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 126
+DEBUG - 2020-12-15 16:02:52 --> Total execution time: 0.0374
+DEBUG - 2020-12-15 16:06:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:06:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:06:30 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:06:30 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:06:30 --> Severity: Notice --> Undefined index: docs /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 67
+ERROR - 2020-12-15 16:06:30 --> Severity: Warning --> count(): Parameter must be an array or an object that implements Countable /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 67
+ERROR - 2020-12-15 16:06:30 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 126
+DEBUG - 2020-12-15 16:06:30 --> Total execution time: 0.0344
+DEBUG - 2020-12-15 16:06:37 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:06:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:06:37 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:06:37 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:06:37 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 126
+DEBUG - 2020-12-15 16:06:37 --> Total execution time: 0.0318
+DEBUG - 2020-12-15 16:08:46 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:08:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:08:47 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:08:47 --> Total execution time: 0.0416
+DEBUG - 2020-12-15 16:08:50 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:08:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:08:50 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:08:50 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:08:50 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:08:50 --> Total execution time: 0.0337
+DEBUG - 2020-12-15 16:16:11 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:16:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:16:11 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:16:11 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:16:11 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+ERROR - 2020-12-15 16:16:11 --> Severity: error --> Exception: Cannot use object of type stdClass as array /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 122
+DEBUG - 2020-12-15 16:16:38 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:16:38 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:16:38 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:16:38 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:16:38 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:16:38 --> Total execution time: 0.0881
+DEBUG - 2020-12-15 16:17:03 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:17:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:17:03 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:17:03 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:17:03 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:17:03 --> Total execution time: 0.0343
+DEBUG - 2020-12-15 16:18:02 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:02 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:02 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:18:02 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:18:02 --> Total execution time: 0.0353
+DEBUG - 2020-12-15 16:18:04 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:04 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:04 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:18:04 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:18:04 --> Total execution time: 0.0375
+DEBUG - 2020-12-15 16:18:04 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:04 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:04 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:18:04 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:18:04 --> Total execution time: 0.0372
+DEBUG - 2020-12-15 16:18:04 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:04 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:04 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:18:04 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:18:04 --> Total execution time: 0.0339
+DEBUG - 2020-12-15 16:18:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:05 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:18:05 --> Total execution time: 0.0356
+DEBUG - 2020-12-15 16:18:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:05 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:18:05 --> Total execution time: 0.0344
+DEBUG - 2020-12-15 16:18:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:05 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:18:05 --> Total execution time: 0.0340
+DEBUG - 2020-12-15 16:18:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:05 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:18:05 --> Total execution time: 0.0380
+DEBUG - 2020-12-15 16:18:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:05 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:18:05 --> Total execution time: 0.0347
+DEBUG - 2020-12-15 16:18:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:05 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+ERROR - 2020-12-15 16:18:05 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 115
+DEBUG - 2020-12-15 16:18:05 --> Total execution time: 0.0348
+DEBUG - 2020-12-15 16:18:29 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:18:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:18:29 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:18:29 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:18:29 --> Total execution time: 0.0434
+DEBUG - 2020-12-15 16:20:11 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:20:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:20:11 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:20:11 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:20:11 --> Total execution time: 0.0378
+DEBUG - 2020-12-15 16:21:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:21:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:21:00 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:21:00 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:21:00 --> Total execution time: 0.0399
+DEBUG - 2020-12-15 16:21:06 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:21:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:21:06 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:21:06 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:21:06 --> Total execution time: 0.0370
+DEBUG - 2020-12-15 16:21:06 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:21:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:21:06 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:21:06 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:21:06 --> Total execution time: 0.0393
+DEBUG - 2020-12-15 16:21:06 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:21:06 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:21:06 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:21:06 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:21:06 --> Total execution time: 0.0401
+DEBUG - 2020-12-15 16:21:19 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:21:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:21:19 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:21:19 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:21:19 --> Total execution time: 0.0378
+DEBUG - 2020-12-15 16:21:20 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:21:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:21:20 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:21:20 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:21:20 --> Total execution time: 0.0372
+DEBUG - 2020-12-15 16:21:20 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:21:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:21:20 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:21:20 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:21:20 --> Total execution time: 0.0379
+DEBUG - 2020-12-15 16:21:20 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:21:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:21:20 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:21:20 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:21:20 --> Total execution time: 0.0361
+DEBUG - 2020-12-15 16:23:14 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:23:14 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:23:14 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:23:14 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:23:14 --> Total execution time: 0.0376
+DEBUG - 2020-12-15 16:23:21 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:23:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:23:21 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:23:21 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:23:21 --> Total execution time: 0.0342
+DEBUG - 2020-12-15 16:23:21 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:23:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:23:21 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:23:21 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:23:21 --> Total execution time: 0.0349
+DEBUG - 2020-12-15 16:23:21 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:23:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:23:21 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:23:21 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:23:21 --> Total execution time: 0.0344
+DEBUG - 2020-12-15 16:24:36 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:24:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:24:36 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:24:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:24:36 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:24:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:24:36 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:24:36 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:24:36 --> Total execution time: 0.3528
+DEBUG - 2020-12-15 16:24:36 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:24:36 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:24:36 --> Total execution time: 0.4737
+DEBUG - 2020-12-15 16:24:36 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:24:36 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:24:36 --> Total execution time: 0.1828
+DEBUG - 2020-12-15 16:24:36 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:24:36 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:24:36 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:24:36 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:24:36 --> Total execution time: 0.0544
+DEBUG - 2020-12-15 16:24:37 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:24:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:24:37 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:24:37 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:24:37 --> Total execution time: 0.0423
+DEBUG - 2020-12-15 16:24:37 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:24:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:24:37 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:24:37 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:24:37 --> Total execution time: 0.0400
+DEBUG - 2020-12-15 16:24:37 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:24:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:24:37 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:24:37 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:24:37 --> Total execution time: 0.0617
+DEBUG - 2020-12-15 16:25:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:25:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:25:00 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:25:00 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:25:00 --> Total execution time: 0.0399
+DEBUG - 2020-12-15 16:25:02 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:25:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:25:02 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:25:02 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:25:02 --> Total execution time: 0.0370
+DEBUG - 2020-12-15 16:25:02 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:25:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:25:02 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:25:02 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:25:02 --> Total execution time: 0.0455
+DEBUG - 2020-12-15 16:25:02 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:25:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:25:02 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:25:02 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:25:02 --> Total execution time: 0.0484
+DEBUG - 2020-12-15 16:25:48 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:25:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:25:48 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:25:48 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:25:48 --> Total execution time: 0.0377
+DEBUG - 2020-12-15 16:26:48 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:26:48 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:26:48 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:26:48 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:26:48 --> Total execution time: 0.1413
+DEBUG - 2020-12-15 16:29:41 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:29:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:29:41 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:29:41 --> Total execution time: 0.0694
+DEBUG - 2020-12-15 16:32:50 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:32:50 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:32:50 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:32:50 --> Total execution time: 0.0393
+DEBUG - 2020-12-15 16:33:11 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:33:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:33:11 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:33:11 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:33:11 --> Total execution time: 0.0333
+DEBUG - 2020-12-15 16:33:19 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:33:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:33:19 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:33:19 --> Total execution time: 0.1689
+DEBUG - 2020-12-15 16:33:19 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:33:19 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 16:33:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:33:19 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:33:19 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:33:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:33:19 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:33:19 --> Total execution time: 0.0429
+DEBUG - 2020-12-15 16:33:20 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:33:20 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 16:33:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:33:20 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:33:20 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:33:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:33:20 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:33:20 --> Total execution time: 0.0296
+DEBUG - 2020-12-15 16:48:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:48:54 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 16:48:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:48:54 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:48:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:48:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:48:54 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:48:54 --> Total execution time: 0.0332
+DEBUG - 2020-12-15 16:48:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:48:54 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 16:48:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:48:54 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:48:54 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:48:54 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:48:54 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:48:54 --> Total execution time: 0.0436
+DEBUG - 2020-12-15 16:49:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:49:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:49:00 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:49:00 --> Total execution time: 0.0500
+DEBUG - 2020-12-15 16:49:03 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:49:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:49:03 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:49:03 --> Total execution time: 0.0511
+DEBUG - 2020-12-15 16:49:03 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:49:03 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 16:49:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:49:03 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:49:03 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:49:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:49:03 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:49:04 --> Total execution time: 0.0325
+DEBUG - 2020-12-15 16:49:04 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:49:04 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 16:49:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:49:04 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:49:04 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:49:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:49:04 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:49:04 --> Total execution time: 0.0394
+DEBUG - 2020-12-15 16:49:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:49:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:49:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:49:16 --> Total execution time: 0.0392
+DEBUG - 2020-12-15 16:49:21 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:49:21 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:49:21 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 16:49:21 --> Total execution time: 0.0448
+DEBUG - 2020-12-15 16:49:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:49:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:49:23 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:49:23 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:49:23 --> Total execution time: 0.0376
+DEBUG - 2020-12-15 16:54:46 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:54:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:54:46 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:54:46 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:54:46 --> Total execution time: 0.2012
+DEBUG - 2020-12-15 16:54:53 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 16:54:53 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 16:54:53 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 16:54:53 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 16:54:53 --> Total execution time: 0.0800
+DEBUG - 2020-12-15 17:03:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:03:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:03:07 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 17:03:07 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 17:03:07 --> Total execution time: 0.1456
+DEBUG - 2020-12-15 17:14:45 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:14:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:14:47 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 17:14:48 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 17:14:49 --> Total execution time: 4.1155
+DEBUG - 2020-12-15 17:16:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:16:07 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 17:16:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:16:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:16:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:16:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:16:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:16:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:16:07 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 17:16:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:16:07 --> Total execution time: 0.3481
+DEBUG - 2020-12-15 17:16:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:16:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:16:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:16:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:16:07 --> Total execution time: 0.0393
+DEBUG - 2020-12-15 17:16:12 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:16:12 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 17:16:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:16:12 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:16:12 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:16:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:16:12 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:16:12 --> Total execution time: 0.0319
+DEBUG - 2020-12-15 17:16:25 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:16:25 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:16:25 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:16:25 --> Total execution time: 0.0549
+DEBUG - 2020-12-15 17:16:27 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:16:27 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:16:27 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:16:27 --> Total execution time: 0.0441
+DEBUG - 2020-12-15 17:19:29 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:19:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:19:29 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:19:29 --> Total execution time: 0.0565
+DEBUG - 2020-12-15 17:20:28 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:20:28 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:20:28 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:20:28 --> Total execution time: 0.0566
+DEBUG - 2020-12-15 17:20:31 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:20:31 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:20:31 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 17:20:31 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 17:20:31 --> Total execution time: 0.0726
+DEBUG - 2020-12-15 17:24:23 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:24:23 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:24:23 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:24:45 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:24:45 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:24:45 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 17:24:45 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 17:24:45 --> Total execution time: 0.0357
+DEBUG - 2020-12-15 17:24:57 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:24:57 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:24:57 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 17:24:57 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 17:24:57 --> Total execution time: 0.0348
+DEBUG - 2020-12-15 17:26:56 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:26:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:26:56 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:26:56 --> Total execution time: 0.0429
+DEBUG - 2020-12-15 17:28:24 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:28:24 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:28:24 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 17:28:24 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 17:28:24 --> Total execution time: 0.0353
+DEBUG - 2020-12-15 17:28:32 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:28:32 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:28:32 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:28:32 --> Total execution time: 0.1004
+DEBUG - 2020-12-15 17:29:49 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:29:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:29:49 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:29:49 --> Total execution time: 0.0676
+DEBUG - 2020-12-15 17:29:51 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:29:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:29:51 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:29:51 --> Total execution time: 0.0383
+DEBUG - 2020-12-15 17:29:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:29:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:29:52 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:29:52 --> Total execution time: 0.0369
+DEBUG - 2020-12-15 17:29:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:29:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:29:52 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:29:52 --> Total execution time: 0.0346
+DEBUG - 2020-12-15 17:29:52 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:29:52 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:29:52 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:29:52 --> Total execution time: 0.0376
+DEBUG - 2020-12-15 17:29:56 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:29:56 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:29:56 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 17:29:56 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 37
+DEBUG - 2020-12-15 17:29:56 --> Total execution time: 0.0314
+DEBUG - 2020-12-15 17:31:44 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:31:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:31:44 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:31:44 --> Total execution time: 0.0341
+DEBUG - 2020-12-15 17:31:49 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:31:49 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:31:49 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 17:31:49 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 38
+DEBUG - 2020-12-15 17:31:49 --> Total execution time: 0.0329
+DEBUG - 2020-12-15 17:32:51 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:32:51 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:32:51 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 17:32:51 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 41
+DEBUG - 2020-12-15 17:32:51 --> Total execution time: 0.0625
+DEBUG - 2020-12-15 17:33:12 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:33:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:33:12 --> Encryption: Auto-configured driver 'openssl'.
+ERROR - 2020-12-15 17:33:12 --> Severity: Warning --> Creating default object from empty value /opt/lampp/htdocs/hakibah/public/pages/likedlist.php 41
+DEBUG - 2020-12-15 17:33:12 --> Total execution time: 0.0367
+DEBUG - 2020-12-15 17:33:19 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:33:19 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:33:19 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:33:19 --> Total execution time: 0.0430
+DEBUG - 2020-12-15 17:34:11 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:34:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:34:11 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:34:11 --> Total execution time: 0.0392
+DEBUG - 2020-12-15 17:34:37 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:34:37 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:34:37 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:34:37 --> Total execution time: 0.0408
+DEBUG - 2020-12-15 17:34:44 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:34:44 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:34:44 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:34:44 --> Total execution time: 0.0397
+DEBUG - 2020-12-15 17:34:46 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:34:46 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:34:46 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:34:46 --> Total execution time: 0.0362
+DEBUG - 2020-12-15 17:44:10 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:44:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:44:10 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:44:10 --> Total execution time: 0.0530
+DEBUG - 2020-12-15 17:44:10 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:44:10 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 17:44:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:44:10 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:44:10 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:44:10 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:44:10 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:44:10 --> Total execution time: 0.0443
+DEBUG - 2020-12-15 17:44:11 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:44:11 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 17:44:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:44:11 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:44:11 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:44:11 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:44:11 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:44:11 --> Total execution time: 0.0359
+DEBUG - 2020-12-15 17:44:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:44:16 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 17:44:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:44:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:44:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:44:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:44:16 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:44:16 --> Total execution time: 0.0378
+DEBUG - 2020-12-15 17:44:26 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:44:26 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:44:26 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:44:26 --> Total execution time: 0.0348
+DEBUG - 2020-12-15 17:48:02 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:48:02 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:48:02 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:48:02 --> Total execution time: 0.0375
+DEBUG - 2020-12-15 17:49:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:49:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:49:00 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:49:00 --> Total execution time: 0.0345
+DEBUG - 2020-12-15 17:49:03 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:49:03 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:49:03 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:49:03 --> Total execution time: 0.0337
+DEBUG - 2020-12-15 17:49:04 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:49:04 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:49:04 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:49:04 --> Total execution time: 0.0383
+DEBUG - 2020-12-15 17:49:13 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:49:13 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:49:14 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:49:14 --> Total execution time: 0.0391
+DEBUG - 2020-12-15 17:52:00 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:52:00 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:52:00 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:52:00 --> Total execution time: 0.0347
+DEBUG - 2020-12-15 17:52:07 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:52:07 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:52:07 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:52:07 --> Total execution time: 0.0336
+DEBUG - 2020-12-15 17:53:47 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:53:47 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:53:47 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:53:47 --> Total execution time: 0.0367
+DEBUG - 2020-12-15 17:53:58 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:53:58 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:53:58 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:53:58 --> Total execution time: 0.0305
+DEBUG - 2020-12-15 17:54:20 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:54:20 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:54:20 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:54:20 --> Total execution time: 0.0381
+DEBUG - 2020-12-15 17:55:16 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:55:16 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:55:17 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:55:17 --> Total execution time: 0.0351
+DEBUG - 2020-12-15 17:55:18 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:55:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:55:18 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:55:18 --> Total execution time: 0.0343
+DEBUG - 2020-12-15 17:55:18 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:55:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:55:18 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:55:18 --> Total execution time: 0.0367
+DEBUG - 2020-12-15 17:55:18 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:55:18 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:55:18 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:55:18 --> Total execution time: 0.0387
+DEBUG - 2020-12-15 17:55:34 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:55:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:55:34 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:55:34 --> Total execution time: 0.0327
+DEBUG - 2020-12-15 17:55:40 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 17:55:40 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 17:55:40 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 17:55:40 --> Total execution time: 0.0538
+DEBUG - 2020-12-15 18:01:12 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:01:12 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:01:12 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:01:12 --> Total execution time: 0.4131
+DEBUG - 2020-12-15 18:05:29 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:05:29 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:05:29 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:05:29 --> Total execution time: 0.0354
+DEBUG - 2020-12-15 18:05:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:05:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:05:30 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:05:30 --> Total execution time: 0.0363
+DEBUG - 2020-12-15 18:05:30 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:05:30 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:05:30 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:05:30 --> Total execution time: 0.0318
+DEBUG - 2020-12-15 18:08:34 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:08:34 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:08:34 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:08:34 --> Total execution time: 0.0970
+DEBUG - 2020-12-15 18:11:41 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:11:41 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:11:41 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:11:41 --> Total execution time: 0.0356
+DEBUG - 2020-12-15 18:20:55 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:20:55 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:20:55 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:20:55 --> Total execution time: 0.0418
+DEBUG - 2020-12-15 18:21:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:21:05 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 18:21:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:21:05 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:21:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:21:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:21:05 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:21:05 --> Total execution time: 0.0282
+DEBUG - 2020-12-15 18:21:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:21:05 --> No URI present. Default controller set.
+DEBUG - 2020-12-15 18:21:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:21:05 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:21:05 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:21:05 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:21:05 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:21:05 --> Total execution time: 0.0372
+DEBUG - 2020-12-15 18:21:15 --> UTF-8 Support Enabled
+DEBUG - 2020-12-15 18:21:15 --> Global POST, GET and COOKIE data sanitized
+DEBUG - 2020-12-15 18:21:15 --> Encryption: Auto-configured driver 'openssl'.
+DEBUG - 2020-12-15 18:21:15 --> Total execution time: 0.0342

@@ -1,0 +1,361 @@
+<?php is($data['book'], 'object') ? $book = $data['book'] : show_404() ?>
+<?php is($book) or show_404() ?>
+<?php
+// echo '<pre>';
+// print_r($_SERVER);
+// die;
+?>
+
+<style>
+    .breadcrumb {
+        background: transparent;
+        padding: 0;
+    }
+
+    .breadcrumb {
+        margin: 0 0 15px 0;
+        padding: 0;
+    }
+
+    .breadcrumb li {
+        color: #5bc787;
+        display: inline;
+        font-weight: 500;
+        font-size: 15px;
+        max-width: 450px;
+        overflow: hidden;
+        text-overflow: ellipsis;
+    }
+
+    .breadcrumb li a:visited {
+        color: #5bc787;
+    }
+
+    .breadcrumb-item+.breadcrumb-item::before {
+        content: ">";
+    }
+
+    .widthMObile-img {
+        width: 15%;
+    }
+
+    @media (max-width: 767px) {
+        .flex-Mobile-xs {
+            flex-direction: row;
+        }
+
+        .widthMObile-img {
+            width: 150px;
+        }
+
+        .fontMobile-heading {
+            font-size: 1.5rem;
+        }
+
+        .nav-pills .mr-5 {
+            margin-right: 20px !important;
+        }
+
+        .nav-pills .nav-links h5 {
+            font-size: 16px;
+        }
+    }
+
+    @media (min-width: 768px) {
+        .breadcrumb {
+            margin: 0;
+        }
+    }
+</style>
+
+<!-- Breadcrumb Section -->
+<section class="py-4 bg-light">
+    <div class="container">
+        <div class="row">
+            <div class="col-md-12 d-inline-flex">
+                <svg class="ic ic-book" width="50" height="48" viewBox="0 0 66 84">
+                    <g fill="none" fill-rule="evenodd">
+                        <path fill="#9C5BC2" d="M1.75328636,1.77389063 C2.82636093,0.701973678 4.24437907,0.110676799 6.00734077,0 L60.0030119,0 C61.9041469,0.230989222 63.3190178,0.811097243 64.2476247,1.74032406 C65.1762315,2.66955088 65.7603566,4.08977347 66,6.00099182 L66,77.9809672 C65.9295984,79.7064607 65.3646198,81.1037241 64.3050642,82.1727573 C63.2455086,83.2417906 61.8219305,83.8508715 60.0343298,84 L6.00764276,84 C4.12887902,83.7796163 2.7242229,83.203659 1.79367439,82.272128 C0.863125894,81.3405971 0.265234429,79.9118925 0,77.9860143 L0,6.00086016 C0.0957830009,4.25479743 0.680211787,2.84580759 1.75328636,1.77389063 Z"></path>
+                        <polygon fill="#FFF" points="10 0 25 0 25 22 17.5 15.6 10 22"></polygon>
+                        <g fill="#FFF" transform="translate(10 39)">
+                            <rect width="24" height="3" rx="1.5"></rect>
+                            <rect width="44" height="3" y="13" rx="1.5"></rect>
+                        </g>
+                    </g>
+                </svg>
+                <div class="ml-3">
+                    <h1 class="font-weight-bold text-secondary mb-1 fontMobile-heading">
+                        <?php is($book->title, 'showCapital'); ?>
+                    </h1>
+                    <h5 class="text-secondary mb-3">
+                        <?php is($book->author, 'showCapital'); ?>
+                    </h5>
+                </div>
+            </div>
+
+            <div class="col-12 col-md-12 d-inline-flex ">
+                <nav aria-label="breadcrumb">
+                    <ol class="breadcrumb">
+                        <li class="breadcrumb-item"><a href="<?php echo SITE_URL; ?>book"">Book</a></li>
+                        <li class=" breadcrumb-item"><a href="<?php echo SITE_URL; ?>book/<?php is($book->slug, 'show'); ?>"> <?php is($book->title, 'showCapital'); ?></a></li>
+                    </ol>
+                </nav>
+            </div>
+            <div class="col-md-12 my-2">
+                <?php if (!empty($data['my_book_dd'])) :  ?>
+                    <?php if (is_user_login()) : ?>
+                        <a href="<?php echo SITE_URL . 'remove-to-my-book/' . $book->slug . '/' . $book->id ?>" class="btn px-3 py-2 btn-primary shadow-none" id="my_book_remove_trgr">
+                            My Book
+                        </a>
+                    <?php else : ?>
+                        <a href="<?php echo SITE_URL; ?>login" class="btn px-3 py-2 btn-primary shadow-none" id="my_book_remove_trgr">
+                            My Book
+                        </a>
+                    <?php endif; ?>
+                <?php else : ?>
+                    <?php if (is_user_login()) {
+                        $url = 'add-to-my-book/' . $book->slug . '/' . $book->id;
+                    } else {
+                        $url = 'login';
+                    } ?>
+                    <a href="<?php echo SITE_URL . $url; ?>" class="btn px-3 py-2 btn-primary shadow-none">
+                        Add to My Book
+                    </a>
+                <?php endif; ?>
+            </div>
+        </div>
+    </div>
+</section>
+
+<section>
+    <div class="container mt-4">
+        <div class="row">
+            <div class="col-md-12">
+                <ul class="nav custom-nav-pills nav-pills mb-3 border-bottom" id="pills-tab" role="tablist">
+                    <li class="nav-item mr-5" role="presentation">
+                        <a class="nav-links lead text-decoration-none text-secondary active" id="pills-documents-tab" data-toggle="pill" href="#pills-documents" role="tab" aria-controls="pills-documents" aria-selected="true">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h5 class="mb-0">
+                                        Documents(<?php is($data['doc_count'], 'show') or print('0') ?>)
+                                    </h5>
+                                </div>
+                            </div>
+                        </a>
+                    </li>
+                     <li class="nav-item mr-5 " role="presentation">
+                        <a class="nav-links lead text-decoration-none text-secondary" id="pills-students-tab" data-toggle="pill" href="#pills-students" role="tab" aria-controls="pills-students" aria-selected="false">
+                            <div class="row">
+                                <div class="col-12">
+                                    <h5 class="mb-0">Students(<?php echo $data['total_users_following_book'] ?>)</h5>
+                                </div>
+                            </div>
+                        </a>
+                    </li> 
+                </ul>
+                <div class="tab-content" id="pills-tabContent">
+                    <div class="tab-pane fade show active" id="pills-documents" role="tabpanel" aria-labelledby="pills-documents-tab">
+                        <div class="row">
+                            <?php if (is($data['docs'])) : ?>
+                                <?php foreach ($data['docs'] as $key => $doc) : ?>
+                                    <div class="col-md-12 pt-3 border-bottom">
+                                        <h3 class="font-weight-bold mb-3">
+                                            <?php is($key, 'showCapital'); ?>
+                                        </h3>
+                                        <div class="d-inline-flex">
+                                            <h5>Date <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+                                                    <polyline points="6 9 12 15 18 9"></polyline>
+
+
+                                                </svg></h5>
+                                            <h5 class="ml-4">Rating <svg xmlns="http://www.w3.org/2000/svg" width="18" height="18" viewBox="0 0 24 24" fill="none" stroke="currentColor" stroke-width="2" stroke-linecap="round" stroke-linejoin="round" class="feather feather-chevron-down">
+                                                    <polyline points="6 9 12 15 18 9"></polyline>
+
+
+                                                </svg></h5>
+                                        </div>
+                                    </div>
+
+
+                                    <?php foreach ($doc as $document) : ?>
+                                        <div class="col-md-12 py-3 border-bottom mb-3">
+                                            <div class="d-flex flex-Mobile-xs">
+                                                <div class="mr-3 pt-3 px-2 widthMObile-img" style="background:#aaa; height: 100px; overflow:hidden;">
+                                                    <img class="w-100" src="<?php is($document->image, 'show') ?>" alt="<?php is($document->title, 'showCapital'); ?>">
+                                                </div>
+                                                <div style="flex-grow: 1;">
+                                                    <div class="">
+                                                        <a href="<?php echo SITE_URL; ?>document/<?php is($document->slug, 'show'); ?>/<?php is($document->id, 'show'); ?>" class="text-primary d-block">
+                                                            <?php is($document->title, 'showCapital'); ?>
+                                                        </a>
+                                                        <small><?php is($document->doc_pages, 'show') ?> pages</small>
+                                                    </div>
+                                                </div>
+                                                <div class="mr-5 year">
+                                                    <?php is($document->academic_year, 'show'); ?>
+                                                </div>
+                                                <div class="">
+                                                    <div class="text-success d-inline mr-2">
+                                                        <svg width="20" height="20" style="margin-bottom: 7px;" class="svg-inline--fa fa-thumbs-up fa-w-16 thumb--neBaI" role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+                                                            <path fill="currentColor" d="M104 224H24c-13.255 0-24 10.745-24 24v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V248c0-13.255-10.745-24-24-24zM64 472c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zM384 81.452c0 42.416-25.97 66.208-33.277 94.548h101.723c33.397 0 59.397 27.746 59.553 58.098.084 17.938-7.546 37.249-19.439 49.197l-.11.11c9.836 23.337 8.237 56.037-9.308 79.469 8.681 25.895-.069 57.704-16.382 74.757 4.298 17.598 2.244 32.575-6.148 44.632C440.202 511.587 389.616 512 346.839 512l-2.845-.001c-48.287-.017-87.806-17.598-119.56-31.725-15.957-7.099-36.821-15.887-52.651-16.178-6.54-.12-11.783-5.457-11.783-11.998v-213.77c0-3.2 1.282-6.271 3.558-8.521 39.614-39.144 56.648-80.587 89.117-113.111 14.804-14.832 20.188-37.236 25.393-58.902C282.515 39.293 291.817 0 312 0c24 0 72 8 72 81.452z"></path>
+                                                        </svg>
+                                                    </div> 100%
+                                                </div>
+                                            </div>
+                                        </div>
+                                    <?php endforeach; ?>
+                                <?php endforeach; ?>
+                            <?php endif; ?>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="pills-group" role="tabpanel" aria-labelledby="pills-group-tab">
+                        <div class="row mb-5">
+                            <div class="col-md-8">
+                                <div class="py-2 px-4 my-3 mb-4" style="background: #d7f0ff;">
+                                    <h5 class="mb-0 mt-3">Create post</h5>
+                                    <small>39 students in this course can reply to you!</small>
+                                    <div class="row mt-3">
+                                        <div class="col-md-1 text-center">
+                                            <img src="<?php echo SITE_URL; ?>assets/img/delete-user-17.jpeg" alt="" class="w-100 rounded-circle">
+                                        </div>
+                                        <div class="col-md-11">
+                                            <div class="form-group">
+                                                <textarea name="" id="" rows="3" class="form-control"></textarea>
+                                            </div>
+                                        </div>
+                                    </div>
+                                </div>
+
+                                <div class="d-flex justify-content-between py-3">
+                                    <button class="btn btn-primary rounded-pill px-4 py-2">
+                                        All
+                                    </button>
+                                    <button class="btn bg-light border border-seconady rounded-pill px-4 py-2">
+                                        Exam
+                                    </button>
+                                    <button class="btn bg-light border border-seconady rounded-pill px-4 py-2">
+                                        Lectures
+                                    </button>
+                                    <button class="btn bg-light border border-seconady rounded-pill px-4 py-2">
+                                        Summaries
+                                    </button>
+                                    <button class="btn bg-light border border-seconady rounded-pill px-4 py-2">
+                                        Documents
+                                    </button>
+                                    <button class="btn bg-light border border-seconady rounded-pill px-4 py-2">
+                                        Other
+                                    </button>
+                                </div>
+
+                                <div class="my-3">
+                                    <div class="card">
+                                        <div class="card-body">
+                                            <div class="row">
+                                                <div class="col-md-12">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-1">
+                                                            <img src="<?php echo SITE_URL; ?>assets/img/delete-user-17.jpeg" alt="" class="w-100 rounded-circle">
+                                                        </div>
+                                                        <div class="col-md-7">
+                                                            <h6 class="font-weight-bold mb-0">Anonymous Student</h6>
+                                                            <small class="ml-1">28 Minute</small>
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <button class="px-4 py-2 btn btn-light rounded-pill border border-seconadry">
+                                                                Exam
+                                                            </button>
+                                                        </div>
+                                                        <div class="col-md-2">
+                                                            <div class="d-flex">
+                                                                <div class="text-secondary">
+                                                                    <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width:22px;height:22px">
+                                                                        <path fill="currentColor" d="M503.691 189.836L327.687 37.851C312.281 24.546 288 35.347 288 56.015v80.053C127.371 137.907 0 170.1 0 322.326c0 61.441 39.581 122.309 83.333 154.132 13.653 9.931 33.111-2.533 28.077-18.631C66.066 312.814 132.917 274.316 288 272.085V360c0 20.7 24.3 31.453 39.687 18.164l176.004-152c11.071-9.562 11.086-26.753 0-36.328z"></path>
+                                                                    </svg>
+                                                                </div>
+
+                                                                <div class="text-secondary ml-3">
+                                                                    <svg role="img" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" style="width:22px;height:22px">
+                                                                        <path fill="currentColor" d="M328 256c0 39.8-32.2 72-72 72s-72-32.2-72-72 32.2-72 72-72 72 32.2 72 72zm104-72c-39.8 0-72 32.2-72 72s32.2 72 72 72 72-32.2 72-72-32.2-72-72-72zm-352 0c-39.8 0-72 32.2-72 72s32.2 72 72 72 72-32.2 72-72-32.2-72-72-72z"></path>
+                                                                    </svg>
+                                                                </div>
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12 py-3">
+                                                    <h5>Hey Guys</h5>
+                                                    <div class="text-secondary d-inline-flex">
+                                                        <div class="text-secondary">
+                                                            <svg mlns="http://www.w3.org/2000/svg" width="16" viewBox="0 0 512 512">
+                                                                <path fill="currentColor" d="M104 224H24c-13.255 0-24 10.745-24 24v240c0 13.255 10.745 24 24 24h80c13.255 0 24-10.745 24-24V248c0-13.255-10.745-24-24-24zM64 472c-13.255 0-24-10.745-24-24s10.745-24 24-24 24 10.745 24 24-10.745 24-24 24zM384 81.452c0 42.416-25.97 66.208-33.277 94.548h101.723c33.397 0 59.397 27.746 59.553 58.098.084 17.938-7.546 37.249-19.439 49.197l-.11.11c9.836 23.337 8.237 56.037-9.308 79.469 8.681 25.895-.069 57.704-16.382 74.757 4.298 17.598 2.244 32.575-6.148 44.632C440.202 511.587 389.616 512 346.839 512l-2.845-.001c-48.287-.017-87.806-17.598-119.56-31.725-15.957-7.099-36.821-15.887-52.651-16.178-6.54-.12-11.783-5.457-11.783-11.998v-213.77c0-3.2 1.282-6.271 3.558-8.521 39.614-39.144 56.648-80.587 89.117-113.111 14.804-14.832 20.188-37.236 25.393-58.902C282.515 39.293 291.817 0 312 0c24 0 72 8 72 81.452z"></path>
+                                                            </svg>
+                                                        </div>
+                                                        <div class="ml-3 mt-1">
+                                                            Like
+                                                        </div>
+                                                        <div class="ml-3 mt-1">
+                                                            <span class="badge badge-pill badge-light px-2 py-1" style="background: #f2f3f5;">
+                                                                0
+                                                            </span>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                                <div class="col-md-12 border-top pt-3">
+                                                    <div class="row align-items-center">
+                                                        <div class="col-md-1 text-center">
+                                                            <img src="<?php echo SITE_URL; ?>assets/img/delete-user-17.jpeg" alt="" class="w-100 rounded-circle">
+                                                        </div>
+                                                        <div class="col-md-10 col pl-0">
+                                                            <div class="form-group mb-0">
+                                                                <input type="text" name="" id="" class="form-control border-0 shadow-none" placeholder="Enter your reply">
+                                                            </div>
+                                                        </div>
+                                                    </div>
+                                                </div>
+                                            </div>
+
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+
+                            <div class="col-md-4">
+                                <button class="btn btn-block btn-primary btn-lg">
+                                    Create post
+                                </button>
+                                <div class="card mt-4">
+                                    <div class="card-body">
+                                        <div class="text-center">
+                                            <svg xmlns="http://www.w3.org/2000/svg" width="118" height="56" fill="none" viewBox="0 0 118 56">
+                                                <path fill="#9B51E0" d="M20 48c11.046 0 20-8.954 20-20S31.046 8 20 8 0 16.954 0 28s8.954 20 20 20z"></path>
+                                                <path stroke="#fff" stroke-width="3" d="M15.5 26a3.5 3.5 0 11-7 0 3.5 3.5 0 017 0zM31.5 26a3.5 3.5 0 11-7 0 3.5 3.5 0 017 0z"></path>
+                                                <path fill="#219653" d="M98 48c11.046 0 20-8.954 20-20S109.046 8 98 8s-20 8.954-20 20 8.954 20 20 20z"></path>
+                                                <path stroke="#fff" stroke-width="3" d="M93.5 26a3.5 3.5 0 11-7 0 3.5 3.5 0 017 0zM109.5 26a3.5 3.5 0 11-7 0 3.5 3.5 0 017 0z"></path>
+                                                <path fill="#2F80ED" stroke="#fff" stroke-width="3" d="M59 54.5c14.635 0 26.5-11.864 26.5-26.5S73.635 1.5 59 1.5C44.364 1.5 32.5 13.364 32.5 28S44.364 54.5 59 54.5z"></path>
+                                                <path stroke="#fff" stroke-width="3" d="M53.75 25.5a4.75 4.75 0 11-9.5 0 4.75 4.75 0 019.5 0zM73.75 25.5a4.75 4.75 0 11-9.5 0 4.75 4.75 0 019.5 0z"></path>
+                                            </svg>
+                                            <h5>Did you know you can post anonymously?</h5>
+                                            <small>Get answers without revealing your name and face, it's that simple!</small>
+                                        </div>
+                                    </div>
+                                </div>
+                            </div>
+                        </div>
+                    </div>
+                    <div class="tab-pane fade" id="pills-students" role="tabpanel" aria-labelledby="pills-students-tab">
+                        <div class="row">
+                            <?php foreach ($data['user_follow_book'] as $user_follow_books) : ?>
+                                <div class="col-md-1">
+                                    <div class="rounded-circle bg-warning p-1 text-center mr-1" style="width: 35px; height:35px">
+                                        <?= substr($user_follow_books['first_name'], 0, 1) ?>
+                                        <p class="text-primary mt-2"><?php echo $user_follow_books['first_name'] ?></p>
+                                    </div>
+                                </div>
+                            <?php endforeach; ?>
+                        </div>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>

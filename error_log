@@ -1,0 +1,3 @@
+[16-Dec-2020 09:47:35 UTC] PHP Notice:  Undefined variable: root_folder in /home1/developmentconso/public_html/hakibah/application/Site_constants.php on line 65
+[29-Dec-2020 07:14:43 UTC] PHP Notice:  fwrite(): write of 67 bytes failed with errno=122 Disk quota exceeded in /home1/developmentconso/public_html/hakibah/system/core/Log.php on line 222
+[29-Dec-2020 07:14:43 UTC] PHP Notice:  fwrite(): write of 67 bytes failed with errno=122 Disk quota exceeded in /home1/developmentconso/public_html/hakibah/system/core/Log.php on line 222
